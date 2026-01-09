@@ -1,0 +1,601 @@
+pr_id,pr_category,pr_label,pr_cost,pr_rating
+P172,daily_essential,shampoo,25,4.4
+P116,elecTronIcs ,charger,1610,3.8
+P165,electronics,charger,5693,4.1
+P452,elecTronIcs ,charger,1601,4.4
+P491,elecTronIcs ,headphones,1289,3.9
+P200,daily essential,detergent,481,4.2
+P65,groceries,sugar,182,3.5
+P150,electronics,powerbank,1968,3.1
+P95,GROCERY,oil,276,4.2
+P118,GROCERY,,830,4.0
+P287,electronics,powerbank,6716,4.5
+P508,daily essential,shampoo,703,3.1
+P476,GROCERY,,924,4.0
+P372,fashion,jeans,2891,4.4
+P427,FAshioN,jacket,2547,3.7
+P316,elecTronIcs ,powerbank,6041,3.5
+P192,Luxury ,,5906,4.5
+P413,LUXURY,watch,1225,4.1
+P292,daily_essential,toothpaste,734,4.9
+P7,Daily Essential,detergent,613,4.5
+P325,GROCERY,wheat-flour,918,3.3
+P1,GROCERY,rice,231,3.1
+P116,FAshioN,jeans,2577,4.4
+P93,luxury,perfume,11387,3.1
+P68,FAshioN,tshirt,2002,3.9
+P78,electronics,smartwatch,6199,4.7
+P143,FAshioN,jacket,2562,4.3
+P45,daily essential,shampoo,79,4.5
+P371,Luxury ,perfume,10297,4.4
+P374,fashion,jacket,1857,4.4
+P445,Daily Essential,toothpaste,331,4.1
+P40,luxury,sunglasses,6225,4.6
+P65,EleCtroNicS,headphones,2764,3.5
+P454,LUXURY,sunglasses,7301,4.8
+P481,GROCERY,,94,4.6
+P406,FAshioN,tshirt,1610,3.3
+P40,EleCtroNicS,headphones,1571,4.4
+P449,FAshioN,sneakers,1641,3.7
+P71,daily essential,shampoo,51,4.8
+P153,FAshioN,jeans,2735,3.4
+P204,electronics,headphones,4113,3.5
+P208,fashion,jeans,2210,4.8
+P247,EleCtroNicS,charger,1166,3.1
+P203,Daily Essential,toothpaste,737,4.8
+P72,fashion,sneakers,2401,3.1
+P488,daily_essential,soap,434,4.9
+P14,luxury,perfume,6507,4.7
+P226,luxury,watch,8100,3.8
+P235,Luxury ,perfume,10734,4.2
+P179,groceries,,339,4.6
+P478,Daily Essential,toothpaste,179,3.6
+P487,Daily Essential,toothpaste,982,3.3
+P118,EleCtroNicS,headphones,3972,3.9
+P194,EleCtroNicS,headphones,4593,4.0
+P53,groceries,wheat-flour,382,4.6
+P146,groceries,sugar,63,3.3
+P359,elecTronIcs ,powerbank,3116,3.5
+P92,groceries,sugar,765,4.7
+P167,fashion,jeans,2714,4.2
+P421,fashion,tshirt,2132,3.6
+P436,daily essential,shampoo,929,4.8
+P353,LUXURY,,13701,4.7
+P276,Luxury ,,1258,4.6
+P68,electronics,powerbank,4128,3.0
+P439,Daily Essential,detergent,31,4.5
+P430,daily_essential,toothpaste,71,3.4
+P246,GROCERY,wheat-flour,399,4.0
+P499,electronics,smartwatch,2072,3.7
+P58,luxury,sunglasses,7358,3.2
+P129,daily essential,shampoo,936,4.0
+P130,groceries,sugar,894,3.8
+P328,GROCERY,,270,3.5
+P365,elecTronIcs ,smartwatch,5747,4.0
+P435,luxury,watch,4700,3.9
+P241,daily_essential,detergent,581,3.8
+P177,daily essential,toothpaste,666,3.2
+P166,Daily Essential,toothpaste,231,4.6
+P52,EleCtroNicS,,7769,4.8
+P516,fashion,sneakers,2906,4.0
+P231,groceries,oil,202,3.3
+P293,Daily Essential,soap,511,4.2
+P338,daily essential,toothpaste,261,3.6
+P20,GROCERY,rice,622,4.7
+P36,groceries,wheat-flour,692,3.9
+P230,groceries,,319,4.8
+P241,LUXURY,sunglasses,13031,4.6
+P426,groceries,wheat-flour,305,4.3
+P428,fashion,jacket,2449,3.4
+P382,groceries,sugar,306,3.3
+P376,daily essential,soap,16,4.5
+P109,groceries,rice,882,3.7
+P385,fashion,jeans,2027,4.2
+P218,luxury,,13362,3.6
+P113,elecTronIcs ,headphones,4672,4.8
+P504,Luxury ,watch,4032,3.8
+P506,fashion,jacket,1245,3.5
+P175,daily essential,shampoo,330,4.1
+P501,electronics,charger,838,4.1
+P185,GROCERY,oil,70,4.6
+P115,Luxury ,,10400,3.8
+P484,luxury,watch,3367,3.9
+P120,LUXURY,watch,11825,4.9
+P27,LUXURY,,6698,3.1
+P19,LUXURY,watch,7118,4.1
+P474,GROCERY,rice,390,3.7
+P231,fashion,jeans,2073,3.9
+P18,LUXURY,perfume,11558,3.7
+P234,Daily Essential,soap,50,3.2
+P195,FAshioN,jeans,791,4.6
+P201,electronics,,7954,3.6
+P284,EleCtroNicS,headphones,5332,4.7
+P310,GROCERY,wheat-flour,712,3.3
+P400,daily essential,shampoo,941,4.4
+P34,daily essential,detergent,687,3.0
+P446,fashion,jacket,1851,3.6
+P427,daily essential,shampoo,287,4.7
+P385,luxury,,9887,3.0
+P493,groceries,oil,113,4.6
+P427,Daily Essential,toothpaste,326,4.7
+P507,elecTronIcs ,,6576,3.4
+P496,LUXURY,,13882,4.0
+P510,FAshioN,jeans,1326,4.2
+P463,fashion,jacket,1756,4.7
+P401,elecTronIcs ,powerbank,5310,3.2
+P220,FAshioN,sneakers,878,3.9
+P362,Luxury ,perfume,14130,3.8
+P487,groceries,oil,118,3.3
+P206,luxury,sunglasses,8231,3.1
+P318,Luxury ,watch,7047,3.9
+P116,luxury,sunglasses,7819,3.5
+P9,GROCERY,rice,690,4.0
+P212,daily essential,toothpaste,401,3.3
+P449,Daily Essential,toothpaste,180,4.8
+P126,FAshioN,jeans,735,4.3
+P357,luxury,watch,2470,4.7
+P28,Luxury ,sunglasses,1008,3.3
+P278,fashion,sneakers,2539,4.5
+P25,FAshioN,sneakers,2167,3.9
+P159,luxury,,6088,4.4
+P162,groceries,,350,3.3
+P62,GROCERY,rice,249,3.2
+P251,Luxury ,watch,1412,4.0
+P149,fashion,tshirt,2883,3.1
+P315,daily essential,soap,489,3.8
+P137,FAshioN,sneakers,1494,4.7
+P409,electronics,headphones,4260,4.2
+P321,groceries,,676,3.7
+P380,GROCERY,wheat-flour,579,3.2
+P58,daily essential,toothpaste,270,4.3
+P444,FAshioN,tshirt,1084,4.8
+P196,FAshioN,jeans,2834,3.8
+P21,groceries,sugar,65,4.2
+P34,elecTronIcs ,,773,3.9
+P478,groceries,oil,984,3.2
+P50,GROCERY,rice,127,3.5
+P310,daily_essential,shampoo,885,3.1
+P48,GROCERY,,799,3.4
+P52,daily_essential,shampoo,847,4.1
+P416,electronics,,5641,4.5
+P414,Luxury ,,9437,3.7
+P407,fashion,tshirt,774,3.9
+P124,daily essential,shampoo,875,4.8
+P250,GROCERY,sugar,831,4.8
+P57,daily_essential,soap,915,4.0
+P489,GROCERY,oil,639,3.1
+P86,electronics,charger,3073,3.8
+P383,GROCERY,rice,141,3.7
+P26,LUXURY,sunglasses,8842,4.7
+P217,LUXURY,sunglasses,5997,3.9
+P517,Luxury ,watch,7075,4.7
+P283,GROCERY,oil,267,3.4
+P518,GROCERY,,906,3.4
+P344,Luxury ,perfume,1790,3.5
+P162,electronics,powerbank,5375,4.5
+P446,Daily Essential,shampoo,865,3.6
+P24,electronics,headphones,7112,3.0
+P341,Daily Essential,shampoo,939,4.8
+P508,groceries,sugar,637,3.7
+P111,GROCERY,oil,321,3.8
+P502,fashion,tshirt,2934,3.0
+P130,daily_essential,shampoo,104,3.0
+P232,LUXURY,perfume,14190,4.3
+P211,fashion,jacket,1058,4.7
+P377,fashion,jacket,2751,4.4
+P302,Luxury ,,4369,4.8
+P8,Daily Essential,detergent,250,4.7
+P243,electronics,headphones,6804,4.8
+P75,Daily Essential,soap,190,4.8
+P320,Daily Essential,toothpaste,98,3.1
+P176,GROCERY,sugar,982,4.3
+P330,Daily Essential,soap,240,3.7
+P295,luxury,,4131,4.1
+P424,electronics,headphones,499,3.5
+P64,groceries,,970,3.2
+P41,electronics,headphones,5520,3.8
+P107,elecTronIcs ,charger,2397,4.1
+P179,electronics,charger,3572,4.8
+P105,groceries,oil,784,4.5
+P505,electronics,powerbank,4007,4.2
+P222,daily_essential,detergent,116,3.2
+P336,Daily Essential,detergent,686,4.4
+P319,daily essential,soap,864,3.5
+P288,GROCERY,sugar,323,3.1
+P318,elecTronIcs ,,1232,4.0
+P453,GROCERY,rice,504,3.9
+P306,daily_essential,toothpaste,351,3.4
+P1,Daily Essential,soap,859,4.2
+P408,fashion,jacket,2872,4.9
+P157,EleCtroNicS,headphones,6293,3.3
+P85,luxury,,5539,4.4
+P360,elecTronIcs ,,6857,4.6
+P1,elecTronIcs ,smartwatch,3624,3.2
+P97,groceries,sugar,460,3.6
+P200,daily essential,detergent,910,3.1
+P2,fashion,tshirt,963,3.3
+P224,GROCERY,wheat-flour,569,4.4
+P105,daily essential,soap,804,3.8
+P342,Daily Essential,soap,634,4.1
+P99,daily_essential,toothpaste,959,4.6
+P21,Luxury ,watch,7849,3.4
+P516,EleCtroNicS,,819,4.1
+P421,FAshioN,jeans,2862,4.4
+P419,FAshioN,sneakers,2722,4.7
+P327,LUXURY,perfume,10238,3.1
+P102,luxury,perfume,7486,3.6
+P190,groceries,,533,3.5
+P240,LUXURY,,6862,3.6
+P116,Daily Essential,shampoo,534,3.1
+P250,Luxury ,watch,1154,3.4
+P412,LUXURY,,13573,4.2
+P73,groceries,,674,3.9
+P468,daily_essential,shampoo,851,3.7
+P13,EleCtroNicS,,4345,4.6
+P54,Daily Essential,toothpaste,428,3.3
+P293,electronics,headphones,4685,4.7
+P427,daily essential,detergent,812,4.7
+P71,groceries,wheat-flour,347,3.2
+P163,Daily Essential,detergent,978,4.1
+P168,FAshioN,sneakers,2080,3.3
+P310,luxury,,7734,4.6
+P26,daily essential,toothpaste,78,4.7
+P461,electronics,charger,5166,4.0
+P450,groceries,sugar,552,4.4
+P50,FAshioN,jeans,1723,4.8
+P178,Daily Essential,toothpaste,31,3.4
+P359,daily essential,detergent,543,3.8
+P384,electronics,charger,1578,4.4
+P117,elecTronIcs ,,3126,3.7
+P136,EleCtroNicS,,7572,4.7
+P285,FAshioN,sneakers,1076,4.6
+P180,Luxury ,,1161,4.8
+P141,LUXURY,sunglasses,8568,4.9
+P335,Daily Essential,detergent,234,4.5
+P449,LUXURY,perfume,8752,3.3
+P317,FAshioN,jacket,2001,3.1
+P330,FAshioN,tshirt,1752,4.3
+P430,Daily Essential,detergent,454,3.9
+P398,daily essential,shampoo,123,4.6
+P357,groceries,oil,428,4.9
+P167,FAshioN,sneakers,995,4.6
+P211,EleCtroNicS,headphones,5059,3.4
+P321,FAshioN,tshirt,2870,3.3
+P436,EleCtroNicS,headphones,7170,3.7
+P417,groceries,oil,882,4.4
+P445,fashion,sneakers,2354,3.0
+P197,EleCtroNicS,,3449,4.2
+P448,Luxury ,perfume,7599,4.6
+P293,Daily Essential,toothpaste,749,3.2
+P294,elecTronIcs ,charger,5544,4.5
+P4,Daily Essential,soap,624,4.4
+P139,luxury,sunglasses,5401,4.5
+P386,Daily Essential,shampoo,998,4.6
+P381,FAshioN,tshirt,2413,3.9
+P292,FAshioN,jacket,1617,3.7
+P351,luxury,sunglasses,12155,4.7
+P358,fashion,jeans,2669,4.8
+P177,LUXURY,,4203,3.4
+P151,elecTronIcs ,headphones,2279,4.3
+P168,daily essential,detergent,323,3.9
+P63,Luxury ,watch,7425,3.9
+P504,daily essential,soap,108,4.5
+P10,LUXURY,watch,6196,3.0
+P412,elecTronIcs ,charger,5657,3.1
+P339,LUXURY,watch,13965,4.7
+P286,groceries,wheat-flour,612,3.4
+P294,elecTronIcs ,headphones,5689,3.1
+P81,daily_essential,shampoo,176,4.7
+P422,Luxury ,,13149,3.1
+P363,Luxury ,,8955,3.2
+P477,Daily Essential,shampoo,710,4.2
+P137,FAshioN,tshirt,1600,4.0
+P115,electronics,powerbank,4125,4.4
+P406,Luxury ,sunglasses,13806,4.7
+P509,daily_essential,shampoo,476,3.2
+P196,daily_essential,shampoo,348,3.1
+P502,groceries,sugar,551,3.3
+P396,luxury,watch,12846,4.9
+P460,elecTronIcs ,headphones,7602,3.1
+P6,elecTronIcs ,,4704,3.0
+P439,luxury,perfume,9940,3.4
+P204,Luxury ,watch,4585,4.3
+P151,GROCERY,wheat-flour,608,4.0
+P321,Daily Essential,toothpaste,224,3.6
+P470,Luxury ,sunglasses,4842,4.3
+P423,daily_essential,toothpaste,649,4.3
+P252,fashion,jacket,1164,4.3
+P192,luxury,watch,8157,4.7
+P209,daily_essential,shampoo,900,3.9
+P404,electronics,,3520,3.1
+P117,luxury,perfume,6903,3.1
+P401,LUXURY,,2148,3.3
+P363,daily essential,shampoo,390,4.8
+P38,elecTronIcs ,headphones,5591,4.4
+P411,EleCtroNicS,charger,3281,3.1
+P191,FAshioN,jacket,2974,3.4
+P26,electronics,charger,3440,4.1
+P37,groceries,,814,3.7
+P219,LUXURY,watch,6236,4.5
+P205,EleCtroNicS,charger,3875,4.0
+P185,FAshioN,jeans,2808,4.1
+P254,daily essential,toothpaste,588,4.6
+P289,elecTronIcs ,charger,598,4.5
+P441,daily_essential,toothpaste,149,3.3
+P409,luxury,,13415,4.3
+P418,Daily Essential,toothpaste,144,3.1
+P366,fashion,sneakers,964,3.4
+P489,elecTronIcs ,charger,6292,4.2
+P479,fashion,sneakers,1941,4.5
+P326,Luxury ,watch,2978,3.3
+P483,fashion,tshirt,1082,4.9
+P408,FAshioN,jacket,2826,3.5
+P126,Luxury ,sunglasses,11509,4.2
+P366,daily essential,shampoo,825,4.4
+P126,daily_essential,toothpaste,315,4.3
+P195,Luxury ,sunglasses,6748,3.1
+P75,LUXURY,,13185,4.2
+P377,groceries,oil,696,4.3
+P435,LUXURY,,10282,4.7
+P511,luxury,perfume,2448,4.5
+P72,Daily Essential,toothpaste,547,4.0
+P358,daily essential,shampoo,348,4.1
+P87,luxury,sunglasses,6785,3.2
+P338,Daily Essential,soap,991,3.3
+P295,daily essential,detergent,599,3.1
+P166,daily essential,shampoo,129,3.3
+P433,Luxury ,,8182,3.1
+P392,groceries,,924,4.0
+P46,elecTronIcs ,headphones,2915,3.2
+P3,luxury,sunglasses,6750,3.9
+P78,fashion,jeans,702,4.6
+P207,daily_essential,soap,243,3.8
+P485,Daily Essential,toothpaste,28,4.0
+P140,groceries,rice,299,3.3
+P7,EleCtroNicS,,7316,3.2
+P6,GROCERY,oil,796,4.0
+P132,Luxury ,,12664,4.5
+P203,daily_essential,soap,512,4.2
+P112,elecTronIcs ,powerbank,7417,3.2
+P520,fashion,tshirt,1601,4.2
+P27,electronics,,5867,3.1
+P163,Luxury ,sunglasses,2747,3.7
+P356,groceries,,249,4.9
+P240,electronics,powerbank,7555,4.2
+P341,daily essential,detergent,87,4.7
+P32,luxury,,11310,3.6
+P499,groceries,wheat-flour,848,3.7
+P463,luxury,,1219,4.0
+P495,luxury,,10352,3.1
+P319,EleCtroNicS,headphones,4240,4.6
+P410,LUXURY,perfume,2315,3.6
+P73,elecTronIcs ,charger,2198,4.9
+P44,elecTronIcs ,powerbank,2821,4.0
+P303,Daily Essential,soap,604,4.6
+P401,fashion,tshirt,2042,3.7
+P175,Luxury ,perfume,13411,4.3
+P69,fashion,jeans,1775,3.4
+P359,luxury,watch,11637,4.8
+P442,groceries,rice,333,4.4
+P309,GROCERY,oil,748,4.6
+P179,daily essential,detergent,540,3.6
+P520,FAshioN,jacket,2481,3.9
+P265,Daily Essential,detergent,574,3.3
+P182,luxury,perfume,8921,4.1
+P461,FAshioN,jeans,1875,3.3
+P53,FAshioN,tshirt,1364,4.5
+P90,fashion,jacket,1935,3.5
+P134,luxury,sunglasses,10327,4.8
+P103,GROCERY,wheat-flour,924,4.1
+P26,GROCERY,sugar,190,4.2
+P68,EleCtroNicS,headphones,5166,4.0
+P410,daily essential,soap,437,3.9
+P263,EleCtroNicS,charger,6505,4.0
+P391,LUXURY,perfume,2783,3.9
+P39,daily_essential,shampoo,170,4.4
+P224,daily essential,soap,518,3.1
+P308,GROCERY,wheat-flour,692,4.6
+P452,electronics,charger,597,4.6
+P276,daily_essential,detergent,609,3.2
+P113,luxury,watch,9508,3.0
+P178,elecTronIcs ,smartwatch,4144,3.9
+P23,electronics,,1395,3.8
+P166,daily_essential,toothpaste,787,4.9
+P401,groceries,sugar,668,4.3
+P100,EleCtroNicS,,2597,4.7
+P455,luxury,sunglasses,14080,3.0
+P220,Luxury ,perfume,8500,4.5
+P411,groceries,,699,4.0
+P100,Luxury ,watch,4159,3.4
+P180,daily essential,soap,86,3.2
+P418,daily essential,shampoo,269,4.7
+P152,daily essential,shampoo,495,3.1
+P460,EleCtroNicS,charger,5174,3.4
+P146,EleCtroNicS,headphones,5133,3.2
+P200,groceries,oil,415,4.5
+P355,electronics,,2117,4.7
+P163,EleCtroNicS,smartwatch,7934,3.7
+P288,Luxury ,watch,14074,4.7
+P461,GROCERY,oil,230,4.6
+P51,daily_essential,toothpaste,880,4.4
+P147,EleCtroNicS,headphones,4122,3.9
+P235,groceries,rice,535,3.5
+P44,groceries,rice,839,3.8
+P159,daily essential,toothpaste,176,4.6
+P35,GROCERY,,60,3.0
+P442,Luxury ,,1026,3.5
+P3,LUXURY,perfume,4313,4.9
+P361,electronics,headphones,2668,4.3
+P21,daily_essential,shampoo,607,3.6
+P134,daily essential,toothpaste,192,4.7
+P402,daily essential,toothpaste,293,4.6
+P247,elecTronIcs ,powerbank,5878,3.8
+P488,GROCERY,wheat-flour,818,4.1
+P223,electronics,,6984,4.8
+P298,Luxury ,,2307,4.2
+P123,GROCERY,sugar,437,3.7
+P475,Luxury ,watch,14128,3.5
+P49,Daily Essential,soap,159,4.7
+P137,electronics,headphones,1998,3.0
+P22,electronics,smartwatch,2161,4.7
+P8,FAshioN,sneakers,1965,4.5
+P187,elecTronIcs ,,923,4.2
+P239,FAshioN,jeans,2236,3.1
+P21,GROCERY,sugar,166,3.4
+P290,daily_essential,detergent,676,4.3
+P65,daily_essential,toothpaste,949,3.4
+P173,fashion,jeans,1780,4.3
+P221,Daily Essential,shampoo,699,3.6
+P287,GROCERY,rice,662,4.9
+P293,fashion,jeans,639,4.8
+P77,luxury,perfume,10471,4.5
+P398,elecTronIcs ,smartwatch,2856,3.4
+P57,FAshioN,jeans,697,4.9
+P92,FAshioN,sneakers,2473,3.9
+P423,daily_essential,shampoo,488,3.9
+P166,Daily Essential,shampoo,514,3.9
+P508,elecTronIcs ,charger,6643,3.3
+P65,luxury,perfume,3038,3.4
+P412,FAshioN,tshirt,1022,3.5
+P51,luxury,sunglasses,8825,3.4
+P427,luxury,sunglasses,12191,3.4
+P221,electronics,headphones,5359,4.6
+P267,fashion,tshirt,957,3.9
+P111,GROCERY,rice,811,3.8
+P7,FAshioN,jeans,989,3.4
+P485,elecTronIcs ,charger,1891,4.2
+P26,LUXURY,,11578,4.3
+P158,fashion,sneakers,2890,3.7
+P48,daily_essential,detergent,52,4.2
+P4,groceries,wheat-flour,899,4.7
+P361,electronics,,2815,3.1
+P497,daily_essential,detergent,863,3.1
+P66,groceries,,427,4.2
+P204,FAshioN,jacket,1501,3.8
+P4,daily essential,shampoo,32,4.2
+P230,fashion,jacket,1197,3.5
+P230,elecTronIcs ,headphones,3399,3.1
+P36,FAshioN,sneakers,1456,4.7
+P7,Daily Essential,soap,220,4.7
+P308,EleCtroNicS,,3674,4.1
+P64,FAshioN,jeans,2248,4.2
+P140,luxury,perfume,3718,4.6
+P183,Luxury ,,2308,4.2
+P95,daily essential,shampoo,244,4.9
+P277,groceries,,705,3.2
+P154,luxury,watch,6383,4.8
+P233,groceries,rice,324,3.5
+P68,electronics,charger,4594,4.0
+P118,daily essential,toothpaste,287,4.8
+P409,luxury,perfume,14158,3.3
+P80,EleCtroNicS,charger,5707,3.3
+P503,GROCERY,rice,722,4.5
+P94,daily_essential,detergent,772,4.4
+P261,LUXURY,watch,10600,3.9
+P176,daily essential,detergent,10,4.5
+P340,groceries,,362,4.7
+P87,Luxury ,,1311,4.8
+P195,FAshioN,sneakers,2383,4.1
+P170,GROCERY,rice,429,3.9
+P107,EleCtroNicS,,7445,4.3
+P98,LUXURY,watch,10200,3.5
+P470,Luxury ,perfume,6369,4.5
+P315,daily essential,soap,377,3.6
+P138,daily essential,toothpaste,954,3.2
+P156,LUXURY,,11900,3.4
+P48,Daily Essential,toothpaste,895,4.0
+P311,EleCtroNicS,powerbank,5009,3.0
+P395,electronics,,5091,4.8
+P493,FAshioN,jacket,2948,3.2
+P68,electronics,smartwatch,436,3.9
+P257,Daily Essential,shampoo,790,3.4
+P236,groceries,sugar,406,4.7
+P262,elecTronIcs ,headphones,7559,3.4
+P17,Daily Essential,toothpaste,423,3.2
+P322,daily essential,detergent,757,3.1
+P324,electronics,smartwatch,2683,4.1
+P403,Luxury ,perfume,1266,4.9
+P15,EleCtroNicS,headphones,7811,4.0
+P513,luxury,sunglasses,9933,3.7
+P460,daily essential,detergent,824,3.0
+P430,Daily Essential,shampoo,825,3.1
+P244,fashion,jacket,2915,3.0
+P419,EleCtroNicS,smartwatch,3583,4.2
+P487,electronics,charger,1395,4.0
+P133,FAshioN,jeans,2108,4.1
+P358,EleCtroNicS,charger,2019,4.8
+P299,EleCtroNicS,smartwatch,5200,3.7
+P184,FAshioN,sneakers,2178,3.8
+P29,FAshioN,tshirt,2629,4.1
+P288,groceries,rice,940,4.9
+P240,groceries,sugar,412,4.6
+P389,GROCERY,oil,801,4.4
+P479,GROCERY,,402,3.1
+P125,daily_essential,shampoo,338,3.9
+P295,FAshioN,tshirt,2139,4.8
+P262,daily essential,soap,887,3.3
+P507,GROCERY,rice,380,4.9
+P139,Daily Essential,detergent,212,3.1
+P346,EleCtroNicS,charger,1084,3.5
+P331,FAshioN,jeans,1048,4.9
+P69,elecTronIcs ,headphones,3098,3.9
+P32,luxury,sunglasses,11630,4.8
+P123,Daily Essential,toothpaste,684,3.2
+P344,daily_essential,toothpaste,178,4.1
+P184,luxury,perfume,13205,3.9
+P408,daily_essential,shampoo,461,3.9
+P498,daily_essential,toothpaste,694,4.2
+P369,Daily Essential,toothpaste,112,3.5
+P520,luxury,,5292,4.8
+P70,FAshioN,jeans,1392,3.8
+P237,elecTronIcs ,charger,603,4.7
+P387,Luxury ,watch,12589,4.7
+P53,fashion,tshirt,2495,4.6
+P27,fashion,jacket,2953,3.6
+P46,fashion,jeans,1286,3.8
+P480,daily_essential,shampoo,629,4.3
+P405,Daily Essential,shampoo,224,4.7
+P317,LUXURY,watch,12436,3.9
+P384,groceries,,681,3.8
+P279,GROCERY,oil,475,3.9
+P139,elecTronIcs ,powerbank,6854,3.9
+P147,daily essential,toothpaste,938,4.3
+P325,luxury,,8153,3.3
+P29,electronics,powerbank,974,4.5
+P337,Luxury ,,4885,4.6
+P427,FAshioN,tshirt,1364,3.4
+P435,elecTronIcs ,charger,7729,3.9
+P21,luxury,watch,8641,3.7
+P243,daily_essential,shampoo,238,3.9
+P84,elecTronIcs ,headphones,5781,4.9
+P460,Daily Essential,shampoo,157,4.1
+P335,GROCERY,rice,73,4.2
+P127,fashion,sneakers,943,3.8
+P13,daily essential,soap,163,4.8
+P80,Daily Essential,soap,266,3.8
+P486,daily_essential,toothpaste,520,3.2
+P359,Daily Essential,toothpaste,416,3.9
+P505,daily essential,detergent,251,4.5
+P267,Luxury ,perfume,12445,4.6
+P455,LUXURY,perfume,7641,4.1
+P434,elecTronIcs ,powerbank,2106,4.8
+P114,daily_essential,shampoo,253,3.2
+P146,EleCtroNicS,smartwatch,2358,4.3
+P87,Daily Essential,shampoo,330,3.1
+P442,FAshioN,jeans,1180,4.4
+P256,daily_essential,toothpaste,84,4.6
+P447,electronics,charger,2698,3.8
+P290,FAshioN,jeans,802,3.4
+P220,LUXURY,watch,5942,3.1
+P333,Daily Essential,soap,60,3.7
+P358,groceries,,156,4.3
+P411,FAshioN,sneakers,2238,4.8
+P422,fashion,sneakers,1576,4.4
+P249,EleCtroNicS,powerbank,411,4.4
+P336,groceries,oil,369,4.2
+P257,elecTronIcs ,charger,6047,4.5
+P517,elecTronIcs ,,2738,3.4
+P186,FAshioN,jacket,1193,4.1
+P469,daily essential,detergent,509,4.7
+P182,FAshioN,sneakers,2784,4.9
+P68,LUXURY,,6230,3.1

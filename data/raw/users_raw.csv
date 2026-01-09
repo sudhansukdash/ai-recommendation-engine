@@ -1,0 +1,1201 @@
+user_id,city,employment_status
+U528,rourkela,student
+U761,new_delhi,STUDENT
+U92,rourkela,Student 
+U218,bhubaneswar,employed
+U205,,not_employed
+U483,kolkata ,STUDENT
+U867,New Delhi,NOTemployed
+U201,NEW DELHI ,NOTemployed
+U613,bangalore ,employed
+U864,NEW DELHI ,NOTemployed
+U292,Bangalore,not_employed
+U210,kolkata,Student 
+U400,new_delhi,Not employed
+U199,BHUBANESWAR,Student 
+U298,bangalore ,Employed
+U755,bangalore ,employed 
+U691,kolkata ,Not employed
+U38,rourkela,Student 
+U725,Bhubaneswar,employed
+U613,Bhubaneswar,Student 
+U538,new_delhi,employed
+U247,KOLKATA,STUDENT
+U610,,Student 
+U199,rourkela,NOTemployed
+U522,bangalore ,Employed
+U246,kolkata ,Student 
+U143,Mumbai,Not employed
+U283,kolkata ,STUDENT
+U166,kolkata ,NOTemployed
+U150,kolkata ,Employed
+U853,,not_employed
+U890,Pune,STUDENT
+U152,bangalore,Student 
+U96,Bhubaneswar,Student 
+U855,rourkela,Student 
+U74,Pune,employed
+U714,kolkata ,NOTemployed
+U828,,Not employed
+U468,bangalore ,Employed
+U708,NEW DELHI ,employed 
+U748,BHUBANESWAR,Not employed
+U751,mumbai,Student 
+U130,bhubaneswar,not_employed
+U820,BHUBANESWAR,
+U800,new_delhi,employed
+U520,Bangalore,STUDENT
+U236,,NOTemployed
+U638,bangalore ,not_employed
+U749,bangalore,student
+U63,new_delhi,student
+U45,Bangalore,employed
+U335,,STUDENT
+U614,Rourkela,student
+U211,Pune,not_employed
+U516,bangalore ,Not employed
+U215,Mumbai,not_employed
+U314,Bhubaneswar,employed
+U312,Pune,student
+U28,Rourkela,not_employed
+U679,bangalore,employed
+U191,Rourkela,Employed
+U186,kolkata ,not_employed
+U249,Bangalore,employed 
+U675,,Not employed
+U737,New Delhi,STUDENT
+U824,Rourkela,Not employed
+U574,Rourkela,not_employed
+U321,new_delhi,
+U887,Bangalore,employed
+U651,Bhubaneswar,Not employed
+U512,bhubaneswar,
+U591,rourkela,not_employed
+U341,Pune,employed
+U863,new_delhi,NOTemployed
+U402,Rourkela,STUDENT
+U203,NEW DELHI ,
+U12,kolkata ,STUDENT
+U802,kolkata ,student
+U310,new_delhi,employed
+U183,bhubaneswar,student
+U722,kolkata,STUDENT
+U724,Bhubaneswar,employed
+U274,bangalore ,
+U351,bangalore ,Employed
+U27,KOLKATA,employed 
+U726,kolkata,employed 
+U654,Rourkela,
+U9,rourkela,Not employed
+U827,mumbai,
+U771,KOLKATA,NOTemployed
+U389,mumbai,STUDENT
+U273,bangalore ,
+U300,rourkela,employed
+U91,kolkata ,Employed
+U44,Bhubaneswar,Not employed
+U766,bangalore ,NOTemployed
+U751,Bhubaneswar,NOTemployed
+U293,Rourkela,Employed
+U96,bhubaneswar,Student 
+U727,,NOTemployed
+U277,BHUBANESWAR,Employed
+U595,New Delhi,not_employed
+U239,New Delhi,NOTemployed
+U186,mumbai,Employed
+U283,KOLKATA,NOTemployed
+U565,mumbai,employed
+U815,Bhubaneswar,STUDENT
+U714,Rourkela,Not employed
+U360,Mumbai,STUDENT
+U619,Bhubaneswar,employed 
+U94,bangalore ,STUDENT
+U243,Bhubaneswar,student
+U881,Pune,student
+U751,Rourkela,employed
+U13,Bhubaneswar,Employed
+U185,rourkela,Student 
+U839,bangalore,student
+U837,kolkata ,employed
+U284,rourkela,Not employed
+U476,kolkata ,student
+U165,mumbai,employed
+U779,rourkela,employed 
+U746,bangalore,Employed
+U748,Pune,
+U334,New Delhi,employed 
+U75,mumbai,Student 
+U580,,STUDENT
+U364,pune,Not employed
+U169,KOLKATA,NOTemployed
+U697,pune,
+U792,Bhubaneswar,employed 
+U667,Rourkela,NOTemployed
+U360,kolkata ,STUDENT
+U80,BHUBANESWAR,Not employed
+U718,rourkela,student
+U776,bangalore ,Employed
+U195,new_delhi,employed
+U776,kolkata ,student
+U265,Rourkela,Not employed
+U566,Bhubaneswar,not_employed
+U671,new_delhi,Student 
+U857,bangalore ,not_employed
+U284,new_delhi,employed 
+U462,BHUBANESWAR,employed 
+U413,Rourkela,employed
+U615,bangalore ,student
+U657,bhubaneswar,
+U703,,student
+U727,NEW DELHI ,Employed
+U547,,NOTemployed
+U720,BHUBANESWAR,Employed
+U372,Mumbai,not_employed
+U115,NEW DELHI ,Not employed
+U808,Bhubaneswar,Employed
+U50,Bhubaneswar,Employed
+U409,kolkata ,employed 
+U302,New Delhi,employed 
+U104,kolkata ,STUDENT
+U192,New Delhi,Employed
+U274,KOLKATA,Not employed
+U539,kolkata,
+U104,Bhubaneswar,not_employed
+U808,NEW DELHI ,employed 
+U158,bhubaneswar,
+U607,bhubaneswar,employed
+U16,kolkata,Employed
+U634,KOLKATA,Employed
+U582,New Delhi,Not employed
+U188,Bhubaneswar,employed 
+U444,kolkata,employed
+U149,Pune,STUDENT
+U308,,Not employed
+U104,Bhubaneswar,not_employed
+U453,kolkata,not_employed
+U394,Bangalore,NOTemployed
+U335,bhubaneswar,not_employed
+U598,bhubaneswar,employed 
+U235,Rourkela,Not employed
+U419,BHUBANESWAR,Employed
+U588,Pune,not_employed
+U237,Mumbai,
+U222,Bhubaneswar,not_employed
+U113,kolkata,Student 
+U700,bangalore,
+U695,KOLKATA,Employed
+U247,Pune,employed
+U158,,NOTemployed
+U620,bangalore,Not employed
+U443,Pune,Student 
+U60,new_delhi,student
+U75,mumbai,student
+U516,Rourkela,NOTemployed
+U260,,not_employed
+U244,bangalore ,employed
+U565,Bhubaneswar,employed 
+U492,mumbai,employed
+U783,,student
+U763,KOLKATA,employed
+U526,Bhubaneswar,Employed
+U255,bhubaneswar,STUDENT
+U185,Mumbai,Employed
+U187,Bhubaneswar,student
+U10,new_delhi,employed
+U453,KOLKATA,student
+U329,new_delhi,not_employed
+U521,Bangalore,employed 
+U739,Bangalore,Employed
+U839,kolkata,
+U868,mumbai,NOTemployed
+U116,Pune,
+U436,rourkela,not_employed
+U850,Mumbai,employed
+U850,New Delhi,STUDENT
+U434,new_delhi,NOTemployed
+U228,NEW DELHI ,Student 
+U342,New Delhi,not_employed
+U510,Rourkela,employed
+U94,BHUBANESWAR,Not employed
+U397,KOLKATA,student
+U613,Bangalore,Student 
+U156,bangalore ,employed
+U629,KOLKATA,NOTemployed
+U212,kolkata,NOTemployed
+U698,pune,
+U583,Bhubaneswar,NOTemployed
+U26,bangalore ,not_employed
+U150,Bangalore,STUDENT
+U38,KOLKATA,STUDENT
+U237,,employed
+U108,BHUBANESWAR,Not employed
+U705,KOLKATA,Not employed
+U362,rourkela,Student 
+U251,bhubaneswar,Not employed
+U606,rourkela,Employed
+U737,Pune,STUDENT
+U73,mumbai,employed 
+U789,NEW DELHI ,Not employed
+U132,new_delhi,employed
+U661,KOLKATA,NOTemployed
+U316,bangalore ,
+U227,Bangalore,Not employed
+U812,kolkata,NOTemployed
+U366,Bhubaneswar,NOTemployed
+U82,,Student 
+U443,Bhubaneswar,
+U662,mumbai,Student 
+U362,pune,NOTemployed
+U351,Pune,Not employed
+U709,NEW DELHI ,Not employed
+U457,kolkata ,
+U874,Mumbai,not_employed
+U71,bhubaneswar,Student 
+U699,kolkata ,STUDENT
+U608,bhubaneswar,employed 
+U90,New Delhi,employed 
+U815,,Student 
+U492,Pune,Employed
+U107,kolkata,employed 
+U626,new_delhi,Not employed
+U117,Rourkela,employed 
+U889,bangalore ,Not employed
+U427,kolkata,STUDENT
+U858,Pune,not_employed
+U130,New Delhi,STUDENT
+U583,Bhubaneswar,
+U45,Bhubaneswar,employed
+U200,Bhubaneswar,employed 
+U720,KOLKATA,employed 
+U133,bangalore,STUDENT
+U362,NEW DELHI ,student
+U10,kolkata ,not_employed
+U24,Bhubaneswar,NOTemployed
+U657,KOLKATA,
+U699,kolkata,employed 
+U187,Mumbai,student
+U605,new_delhi,STUDENT
+U296,Pune,Employed
+U494,kolkata ,student
+U495,new_delhi,not_employed
+U316,Mumbai,student
+U563,bhubaneswar,NOTemployed
+U504,,employed 
+U264,bhubaneswar,student
+U893,,NOTemployed
+U107,new_delhi,student
+U379,new_delhi,Employed
+U642,Pune,Student 
+U175,kolkata,employed
+U878,bangalore ,NOTemployed
+U195,Mumbai,STUDENT
+U729,bangalore ,student
+U249,bhubaneswar,Not employed
+U457,bangalore,STUDENT
+U642,bangalore ,Student 
+U799,BHUBANESWAR,employed
+U269,BHUBANESWAR,Employed
+U225,rourkela,NOTemployed
+U802,pune,student
+U313,BHUBANESWAR,STUDENT
+U170,kolkata,Not employed
+U68,Rourkela,STUDENT
+U523,Mumbai,
+U792,,employed 
+U650,NEW DELHI ,student
+U424,Pune,Employed
+U606,KOLKATA,Student 
+U498,BHUBANESWAR,not_employed
+U310,Bhubaneswar,Not employed
+U665,bangalore ,Employed
+U219,BHUBANESWAR,
+U76,Bangalore,NOTemployed
+U607,,Employed
+U67,Rourkela,employed
+U88,NEW DELHI ,not_employed
+U332,pune,student
+U534,bhubaneswar,Not employed
+U891,Rourkela,employed
+U135,bhubaneswar,student
+U746,KOLKATA,Student 
+U826,bhubaneswar,STUDENT
+U873,pune,Not employed
+U318,BHUBANESWAR,Student 
+U27,pune,employed
+U357,mumbai,student
+U131,NEW DELHI ,Not employed
+U46,Rourkela,Employed
+U571,rourkela,student
+U586,Pune,
+U368,pune,employed
+U210,bangalore,NOTemployed
+U813,kolkata,not_employed
+U334,,Not employed
+U174,KOLKATA,Student 
+U461,Bhubaneswar,NOTemployed
+U250,rourkela,employed
+U608,bangalore ,
+U725,bangalore ,
+U837,kolkata,STUDENT
+U508,kolkata ,Student 
+U92,bangalore,Not employed
+U314,pune,STUDENT
+U763,BHUBANESWAR,student
+U74,,NOTemployed
+U221,BHUBANESWAR,employed 
+U653,Pune,Employed
+U223,,Student 
+U422,kolkata ,NOTemployed
+U610,NEW DELHI ,Student 
+U27,pune,not_employed
+U59,KOLKATA,Employed
+U34,bangalore ,employed 
+U195,Mumbai,employed
+U604,Pune,Not employed
+U571,Bhubaneswar,
+U624,bhubaneswar,Not employed
+U782,BHUBANESWAR,student
+U775,new_delhi,Student 
+U444,bhubaneswar,employed 
+U882,kolkata,Not employed
+U588,New Delhi,not_employed
+U864,KOLKATA,STUDENT
+U285,new_delhi,Not employed
+U757,bangalore ,Student 
+U304,Bangalore,employed 
+U695,new_delhi,employed
+U300,bangalore,Employed
+U858,Bhubaneswar,NOTemployed
+U134,kolkata ,student
+U790,kolkata,not_employed
+U497,Pune,STUDENT
+U876,NEW DELHI ,
+U769,,Student 
+U531,bangalore,student
+U204,bangalore ,employed
+U385,new_delhi,employed
+U734,kolkata,NOTemployed
+U429,mumbai,not_employed
+U74,kolkata,Employed
+U426,new_delhi,NOTemployed
+U884,Pune,employed 
+U194,bangalore,Student 
+U575,bangalore,not_employed
+U379,rourkela,Student 
+U615,New Delhi,Not employed
+U740,kolkata,Employed
+U605,Mumbai,student
+U741,New Delhi,
+U152,bhubaneswar,Employed
+U101,,student
+U611,Pune,not_employed
+U655,,
+U277,Bangalore,
+U417,new_delhi,employed
+U669,BHUBANESWAR,Not employed
+U170,Bhubaneswar,Employed
+U269,kolkata,Not employed
+U362,bhubaneswar,STUDENT
+U697,bhubaneswar,Student 
+U841,Bangalore,Student 
+U335,Bangalore,STUDENT
+U152,,Employed
+U236,bhubaneswar,employed 
+U117,KOLKATA,Employed
+U458,Bangalore,Not employed
+U334,Mumbai,
+U713,Bangalore,Student 
+U439,rourkela,Not employed
+U653,pune,Student 
+U736,KOLKATA,STUDENT
+U736,Pune,Student 
+U768,bangalore,STUDENT
+U392,bangalore ,employed 
+U398,kolkata ,Employed
+U180,BHUBANESWAR,not_employed
+U340,Pune,employed
+U90,new_delhi,
+U29,new_delhi,employed 
+U744,Pune,NOTemployed
+U505,bhubaneswar,student
+U577,,
+U843,rourkela,Employed
+U279,,Student 
+U158,kolkata,employed
+U804,Bangalore,STUDENT
+U396,bangalore,employed 
+U790,Pune,Employed
+U698,Bangalore,
+U890,BHUBANESWAR,Employed
+U676,Bhubaneswar,employed
+U314,pune,Student 
+U135,Bhubaneswar,student
+U676,Bhubaneswar,
+U638,bangalore,student
+U761,KOLKATA,Employed
+U311,Pune,NOTemployed
+U407,pune,employed 
+U882,bhubaneswar,STUDENT
+U17,pune,NOTemployed
+U884,KOLKATA,STUDENT
+U610,new_delhi,Not employed
+U541,bangalore ,STUDENT
+U165,kolkata ,employed 
+U584,bhubaneswar,Not employed
+U584,mumbai,student
+U179,BHUBANESWAR,employed 
+U324,pune,Employed
+U342,Pune,employed 
+U699,bhubaneswar,Student 
+U457,pune,
+U757,kolkata ,NOTemployed
+U687,Pune,student
+U150,bhubaneswar,Student 
+U132,NEW DELHI ,student
+U179,KOLKATA,Employed
+U114,BHUBANESWAR,Not employed
+U416,kolkata ,Student 
+U282,Pune,Student 
+U321,rourkela,STUDENT
+U202,Pune,Student 
+U626,kolkata ,employed
+U467,kolkata,employed
+U277,NEW DELHI ,Student 
+U605,Mumbai,NOTemployed
+U401,new_delhi,Employed
+U515,pune,Not employed
+U541,Bangalore,Student 
+U825,New Delhi,employed 
+U820,bangalore ,
+U610,bangalore,not_employed
+U186,KOLKATA,Not employed
+U424,NEW DELHI ,student
+U581,KOLKATA,
+U536,pune,Student 
+U665,new_delhi,NOTemployed
+U690,KOLKATA,
+U615,new_delhi,employed 
+U262,Bangalore,employed 
+U529,rourkela,NOTemployed
+U332,new_delhi,Employed
+U662,NEW DELHI ,student
+U190,kolkata,employed 
+U691,kolkata ,not_employed
+U637,,NOTemployed
+U891,Pune,Employed
+U653,Mumbai,student
+U564,kolkata,Student 
+U126,Pune,Not employed
+U298,pune,Student 
+U249,,STUDENT
+U821,BHUBANESWAR,Employed
+U771,Pune,Employed
+U347,bangalore,Not employed
+U670,Pune,Student 
+U697,Rourkela,Student 
+U653,BHUBANESWAR,not_employed
+U219,BHUBANESWAR,NOTemployed
+U349,bhubaneswar,STUDENT
+U597,new_delhi,STUDENT
+U406,bangalore,not_employed
+U405,rourkela,STUDENT
+U224,kolkata ,Student 
+U578,kolkata,Employed
+U755,KOLKATA,Student 
+U341,pune,STUDENT
+U531,NEW DELHI ,student
+U685,NEW DELHI ,NOTemployed
+U461,rourkela,
+U91,pune,employed 
+U430,pune,student
+U224,pune,not_employed
+U553,Bangalore,NOTemployed
+U501,bhubaneswar,employed
+U359,BHUBANESWAR,Not employed
+U550,Rourkela,Employed
+U135,,Not employed
+U76,,Employed
+U862,NEW DELHI ,Student 
+U225,New Delhi,employed
+U669,BHUBANESWAR,employed
+U699,NEW DELHI ,not_employed
+U548,Pune,not_employed
+U127,,NOTemployed
+U230,bangalore,Employed
+U827,KOLKATA,employed
+U599,Pune,Employed
+U895,kolkata,Student 
+U359,kolkata,
+U84,,Employed
+U222,mumbai,student
+U889,pune,STUDENT
+U837,new_delhi,employed
+U74,Mumbai,
+U665,rourkela,Student 
+U108,Rourkela,Student 
+U383,Pune,
+U390,bhubaneswar,student
+U131,bangalore,not_employed
+U334,bangalore ,employed 
+U539,kolkata ,student
+U534,Bangalore,employed
+U159,bhubaneswar,NOTemployed
+U394,kolkata,NOTemployed
+U673,kolkata ,student
+U92,Pune,student
+U688,BHUBANESWAR,Student 
+U687,kolkata,student
+U837,Rourkela,employed
+U202,bangalore ,not_employed
+U111,Pune,not_employed
+U401,mumbai,Student 
+U759,pune,Employed
+U15,Rourkela,NOTemployed
+U346,Bangalore,employed
+U140,bangalore,NOTemployed
+U185,bhubaneswar,Student 
+U650,Pune,Not employed
+U829,New Delhi,not_employed
+U336,New Delhi,
+U553,kolkata ,NOTemployed
+U264,bangalore ,employed 
+U771,Rourkela,Student 
+U610,New Delhi,not_employed
+U370,Bangalore,student
+U299,mumbai,Employed
+U586,Rourkela,employed 
+U600,bangalore ,student
+U843,kolkata ,
+U157,,employed 
+U888,NEW DELHI ,NOTemployed
+U239,New Delhi,Not employed
+U806,New Delhi,student
+U24,Bhubaneswar,Student 
+U179,rourkela,Not employed
+U873,BHUBANESWAR,employed
+U681,BHUBANESWAR,student
+U465,kolkata,not_employed
+U6,Mumbai,Not employed
+U329,Rourkela,STUDENT
+U137,new_delhi,employed 
+U94,NEW DELHI ,not_employed
+U126,kolkata,NOTemployed
+U249,KOLKATA,Student 
+U152,rourkela,STUDENT
+U423,BHUBANESWAR,student
+U834,mumbai,STUDENT
+U807,bangalore ,student
+U63,pune,employed 
+U97,BHUBANESWAR,Employed
+U11,bangalore ,employed
+U668,bangalore ,employed
+U796,New Delhi,employed
+U544,rourkela,STUDENT
+U474,bhubaneswar,Not employed
+U180,bangalore,Employed
+U440,Mumbai,employed 
+U417,KOLKATA,
+U638,KOLKATA,Student 
+U310,Bangalore,Student 
+U437,bangalore ,
+U31,,not_employed
+U572,new_delhi,NOTemployed
+U330,mumbai,NOTemployed
+U387,New Delhi,not_employed
+U27,rourkela,NOTemployed
+U289,NEW DELHI ,employed
+U781,Mumbai,not_employed
+U839,rourkela,Not employed
+U281,rourkela,Employed
+U592,BHUBANESWAR,
+U576,pune,not_employed
+U99,Bhubaneswar,
+U841,Rourkela,Not employed
+U40,BHUBANESWAR,employed
+U11,rourkela,student
+U655,Bangalore,Not employed
+U171,Bangalore,employed 
+U273,kolkata,student
+U549,bangalore ,Not employed
+U712,Mumbai,Student 
+U859,bangalore ,student
+U567,bhubaneswar,employed
+U600,Mumbai,
+U327,mumbai,employed 
+U176,BHUBANESWAR,
+U186,mumbai,not_employed
+U400,Rourkela,employed 
+U725,mumbai,STUDENT
+U876,kolkata,student
+U433,Bangalore,Employed
+U419,New Delhi,NOTemployed
+U18,kolkata ,employed 
+U448,Pune,Employed
+U184,kolkata,Not employed
+U512,kolkata ,NOTemployed
+U85,Bangalore,employed 
+U119,new_delhi,not_employed
+U403,Rourkela,employed 
+U215,pune,NOTemployed
+U365,bangalore ,
+U735,Bangalore,student
+U461,KOLKATA,Employed
+U590,Bangalore,
+U175,bangalore,not_employed
+U43,Pune,employed
+U366,bangalore ,Not employed
+U152,Pune,not_employed
+U431,bangalore,employed 
+U390,new_delhi,Employed
+U652,bangalore ,Student 
+U64,KOLKATA,not_employed
+U133,kolkata ,Not employed
+U545,Mumbai,employed
+U219,Mumbai,
+U601,bangalore ,employed
+U469,Bhubaneswar,Student 
+U713,New Delhi,employed 
+U177,New Delhi,employed
+U753,bangalore,employed 
+U578,new_delhi,not_employed
+U23,BHUBANESWAR,student
+U129,pune,NOTemployed
+U501,New Delhi,employed 
+U656,new_delhi,
+U448,pune,
+U106,Bangalore,STUDENT
+U209,rourkela,
+U201,,
+U740,bangalore,employed
+U600,New Delhi,
+U436,New Delhi,student
+U760,new_delhi,
+U117,bangalore,student
+U691,bangalore ,
+U374,Rourkela,STUDENT
+U109,pune,Student 
+U843,Bhubaneswar,Employed
+U753,mumbai,Student 
+U877,mumbai,STUDENT
+U679,bangalore ,employed
+U415,New Delhi,Not employed
+U744,KOLKATA,employed 
+U738,kolkata ,Employed
+U157,bangalore,Student 
+U528,bangalore,STUDENT
+U123,,Student 
+U37,Rourkela,STUDENT
+U325,KOLKATA,STUDENT
+U704,New Delhi,Not employed
+U444,Mumbai,Employed
+U755,Rourkela,NOTemployed
+U779,Rourkela,Employed
+U779,Bhubaneswar,employed
+U135,mumbai,Not employed
+U380,rourkela,student
+U443,kolkata ,Employed
+U713,mumbai,not_employed
+U485,KOLKATA,employed
+U278,Bhubaneswar,
+U759,Mumbai,Employed
+U485,NEW DELHI ,Student 
+U459,New Delhi,student
+U700,mumbai,Not employed
+U613,BHUBANESWAR,not_employed
+U222,,
+U181,mumbai,employed
+U79,BHUBANESWAR,employed
+U800,bangalore ,student
+U318,mumbai,student
+U477,Bangalore,Student 
+U794,NEW DELHI ,Employed
+U720,NEW DELHI ,Not employed
+U571,Bhubaneswar,Student 
+U34,rourkela,
+U335,rourkela,Employed
+U191,,student
+U126,New Delhi,
+U852,Bhubaneswar,Employed
+U497,New Delhi,Student 
+U173,bangalore,employed 
+U190,NEW DELHI ,Employed
+U280,NEW DELHI ,Not employed
+U410,kolkata,Not employed
+U379,Rourkela,
+U306,Bangalore,employed 
+U834,Pune,not_employed
+U887,Bhubaneswar,employed
+U281,Rourkela,NOTemployed
+U523,kolkata ,Student 
+U670,bangalore ,not_employed
+U528,Pune,Not employed
+U71,kolkata ,Student 
+U565,Bangalore,STUDENT
+U426,Bangalore,employed 
+U729,Mumbai,Not employed
+U277,kolkata ,employed
+U190,bhubaneswar,not_employed
+U783,pune,NOTemployed
+U510,Bhubaneswar,Student 
+U392,Bangalore,student
+U437,Bhubaneswar,not_employed
+U636,rourkela,not_employed
+U98,KOLKATA,Student 
+U15,new_delhi,
+U644,bhubaneswar,STUDENT
+U786,bangalore ,Not employed
+U528,Bangalore,STUDENT
+U550,New Delhi,not_employed
+U738,NEW DELHI ,Not employed
+U874,Pune,NOTemployed
+U496,Pune,Not employed
+U31,rourkela,STUDENT
+U714,Rourkela,employed
+U572,Bangalore,Employed
+U398,Bhubaneswar,Employed
+U779,Rourkela,
+U544,Rourkela,not_employed
+U643,mumbai,employed
+U395,Rourkela,not_employed
+U615,Bangalore,
+U191,New Delhi,STUDENT
+U633,NEW DELHI ,student
+U36,bangalore,student
+U560,New Delhi,employed
+U883,Bhubaneswar,Employed
+U107,rourkela,
+U757,Bhubaneswar,student
+U857,new_delhi,employed 
+U750,NEW DELHI ,student
+U460,mumbai,Employed
+U598,BHUBANESWAR,student
+U715,bhubaneswar,employed
+U676,Mumbai,NOTemployed
+U95,rourkela,Not employed
+U696,Mumbai,NOTemployed
+U871,new_delhi,STUDENT
+U17,new_delhi,employed
+U702,pune,Employed
+U606,KOLKATA,NOTemployed
+U99,kolkata,employed 
+U672,Bangalore,student
+U542,Rourkela,employed
+U87,,employed
+U168,bhubaneswar,NOTemployed
+U267,BHUBANESWAR,
+U697,NEW DELHI ,Student 
+U400,,employed 
+U391,Bhubaneswar,
+U613,Pune,employed 
+U320,,STUDENT
+U31,bhubaneswar,
+U608,Bangalore,Not employed
+U340,New Delhi,Employed
+U14,Mumbai,student
+U283,KOLKATA,
+U149,rourkela,student
+U74,,Student 
+U256,KOLKATA,Not employed
+U569,mumbai,Not employed
+U24,bangalore ,student
+U815,bangalore,Not employed
+U421,Rourkela,
+U311,bhubaneswar,not_employed
+U232,Pune,Not employed
+U181,kolkata,
+U6,BHUBANESWAR,not_employed
+U394,Pune,Employed
+U68,Pune,employed 
+U796,rourkela,Employed
+U772,KOLKATA,STUDENT
+U570,pune,
+U319,Bhubaneswar,NOTemployed
+U747,Bhubaneswar,
+U828,bhubaneswar,STUDENT
+U228,Bhubaneswar,not_employed
+U541,Rourkela,
+U626,BHUBANESWAR,not_employed
+U297,kolkata,Employed
+U795,Pune,STUDENT
+U461,Rourkela,
+U468,BHUBANESWAR,Student 
+U54,Mumbai,employed
+U606,Bangalore,Employed
+U557,Bhubaneswar,
+U279,Bangalore,Employed
+U630,bangalore ,NOTemployed
+U810,Mumbai,employed 
+U584,NEW DELHI ,STUDENT
+U619,KOLKATA,student
+U686,Pune,Student 
+U65,NEW DELHI ,employed 
+U240,pune,not_employed
+U737,kolkata ,Not employed
+U517,bangalore,NOTemployed
+U810,rourkela,Not employed
+U343,kolkata,Not employed
+U69,kolkata,Employed
+U529,BHUBANESWAR,
+U205,bangalore ,employed 
+U199,Bhubaneswar,Employed
+U509,KOLKATA,student
+U30,bangalore ,Student 
+U820,bangalore ,Student 
+U503,Rourkela,student
+U703,Pune,employed 
+U606,new_delhi,Not employed
+U419,BHUBANESWAR,Student 
+U447,bangalore,employed
+U10,Bhubaneswar,employed 
+U11,rourkela,Student 
+U512,,employed
+U520,bangalore,employed 
+U517,bangalore ,employed
+U153,BHUBANESWAR,not_employed
+U747,New Delhi,Employed
+U538,NEW DELHI ,NOTemployed
+U674,Rourkela,employed
+U327,bangalore ,student
+U106,kolkata,
+U268,Pune,employed
+U272,New Delhi,not_employed
+U545,bhubaneswar,not_employed
+U769,rourkela,not_employed
+U835,bangalore ,STUDENT
+U64,new_delhi,STUDENT
+U296,bangalore,
+U716,BHUBANESWAR,employed
+U707,bangalore ,NOTemployed
+U343,kolkata,not_employed
+U348,,NOTemployed
+U401,mumbai,Not employed
+U219,Pune,employed
+U570,BHUBANESWAR,Not employed
+U582,pune,
+U137,pune,employed 
+U560,rourkela,employed
+U588,bangalore,not_employed
+U270,Mumbai,NOTemployed
+U311,,employed
+U245,new_delhi,STUDENT
+U594,mumbai,
+U802,mumbai,STUDENT
+U281,bhubaneswar,Student 
+U545,kolkata,Employed
+U528,bangalore,not_employed
+U84,bhubaneswar,not_employed
+U538,Mumbai,not_employed
+U31,KOLKATA,STUDENT
+U65,Bangalore,NOTemployed
+U428,NEW DELHI ,NOTemployed
+U204,New Delhi,NOTemployed
+U357,kolkata,employed
+U125,pune,
+U326,Pune,STUDENT
+U840,bangalore,Student 
+U584,Rourkela,not_employed
+U790,Bangalore,NOTemployed
+U528,bhubaneswar,Not employed
+U376,Mumbai,student
+U557,Pune,STUDENT
+U285,rourkela,Employed
+U655,Bhubaneswar,NOTemployed
+U325,bhubaneswar,employed 
+U580,Pune,not_employed
+U609,,STUDENT
+U819,pune,Student 
+U487,NEW DELHI ,employed 
+U678,KOLKATA,student
+U635,rourkela,STUDENT
+U697,new_delhi,NOTemployed
+U98,bangalore,NOTemployed
+U723,Mumbai,student
+U353,kolkata,NOTemployed
+U869,mumbai,Employed
+U308,NEW DELHI ,employed
+U583,Rourkela,
+U770,BHUBANESWAR,employed
+U258,Mumbai,Employed
+U236,NEW DELHI ,NOTemployed
+U473,Bhubaneswar,not_employed
+U152,Pune,Not employed
+U126,,Not employed
+U611,New Delhi,NOTemployed
+U77,KOLKATA,Not employed
+U199,rourkela,not_employed
+U542,NEW DELHI ,student
+U460,kolkata,
+U128,new_delhi,employed 
+U205,NEW DELHI ,employed 
+U788,new_delhi,STUDENT
+U31,kolkata,Student 
+U292,new_delhi,Student 
+U99,new_delhi,not_employed
+U229,rourkela,employed 
+U71,pune,Employed
+U426,bhubaneswar,STUDENT
+U674,bangalore,student
+U687,pune,STUDENT
+U828,KOLKATA,NOTemployed
+U127,bangalore ,Employed
+U116,bhubaneswar,STUDENT
+U328,KOLKATA,NOTemployed
+U191,bangalore,
+U62,NEW DELHI ,Not employed
+U812,Bangalore,STUDENT
+U755,Mumbai,employed
+U425,new_delhi,employed
+U62,KOLKATA,employed
+U862,Rourkela,not_employed
+U307,rourkela,Student 
+U477,new_delhi,Employed
+U278,bangalore ,employed 
+U186,kolkata,Employed
+U140,Pune,NOTemployed
+U691,rourkela,
+U105,KOLKATA,employed
+U133,New Delhi,Not employed
+U799,rourkela,employed 
+U279,Rourkela,not_employed
+U74,Pune,employed 
+U374,Mumbai,employed 
+U209,bangalore ,student
+U825,,employed 
+U644,bangalore ,employed 
+U558,bangalore,STUDENT
+U6,New Delhi,not_employed
+U825,bangalore,employed
+U474,BHUBANESWAR,employed
+U67,mumbai,Student 
+U496,Bhubaneswar,not_employed
+U82,Bangalore,Employed
+U20,kolkata ,not_employed
+U878,Bhubaneswar,Student 
+U346,KOLKATA,
+U809,Mumbai,employed
+U200,bangalore,STUDENT
+U23,NEW DELHI ,employed 
+U834,pune,Student 
+U682,Mumbai,not_employed
+U716,Bhubaneswar,employed 
+U448,BHUBANESWAR,Not employed
+U707,bangalore ,STUDENT
+U860,bangalore,NOTemployed
+U838,rourkela,Student 
+U403,BHUBANESWAR,
+U791,bhubaneswar,employed 
+U713,new_delhi,STUDENT
+U830,New Delhi,Employed
+U22,Bangalore,Not employed
+U336,Rourkela,not_employed
+U200,BHUBANESWAR,Student 
+U835,kolkata ,Not employed
+U562,New Delhi,employed
+U794,pune,STUDENT
+U885,bhubaneswar,student
+U301,BHUBANESWAR,Not employed
+U417,kolkata,employed 
+U276,new_delhi,Not employed
+U485,rourkela,employed 
+U274,Mumbai,NOTemployed
+U152,bangalore ,
+U549,,employed
+U468,new_delhi,STUDENT
+U882,BHUBANESWAR,Not employed
+U744,kolkata,student
+U358,New Delhi,NOTemployed
+U12,Mumbai,employed 
+U759,Mumbai,not_employed
+U696,Bhubaneswar,employed
+U702,Rourkela,
+U246,bangalore ,student
+U276,mumbai,not_employed
+U52,kolkata,employed
+U586,Bhubaneswar,
+U192,KOLKATA,Not employed
+U325,KOLKATA,student
+U27,new_delhi,Employed
+U863,bangalore,employed
+U814,NEW DELHI ,student
+U839,KOLKATA,employed
+U144,,Employed
+U366,Rourkela,STUDENT
+U285,bangalore,STUDENT
+U673,BHUBANESWAR,STUDENT
+U104,BHUBANESWAR,not_employed
+U571,Bangalore,Student 
+U871,new_delhi,Not employed
+U163,New Delhi,student
+U249,KOLKATA,NOTemployed
+U386,rourkela,Employed
+U866,KOLKATA,STUDENT
+U692,bangalore,Not employed
+U418,BHUBANESWAR,employed
+U671,mumbai,Student 
+U689,new_delhi,NOTemployed
+U449,pune,STUDENT
+U781,mumbai,Student 
+U135,kolkata ,NOTemployed
+U373,New Delhi,
+U825,kolkata,STUDENT
+U476,New Delhi,
+U664,NEW DELHI ,NOTemployed
+U780,kolkata ,Employed
+U139,kolkata,Employed
+U16,pune,
+U59,bhubaneswar,Not employed
+U58,new_delhi,
+U476,BHUBANESWAR,Not employed
+U650,bangalore,NOTemployed
+U704,Pune,employed
+U328,,Student 
+U853,KOLKATA,
+U194,new_delhi,Employed
+U810,pune,student
+U855,bhubaneswar,NOTemployed
+U264,bangalore ,not_employed
+U805,Rourkela,student
+U775,Mumbai,employed
+U568,rourkela,Employed
+U775,,
+U825,New Delhi,student
+U740,pune,
+U413,New Delhi,employed
+U751,Mumbai,employed
+U819,New Delhi,STUDENT
+U886,Rourkela,employed 
+U322,NEW DELHI ,NOTemployed
+U688,rourkela,not_employed
+U255,new_delhi,Employed
+U83,kolkata,NOTemployed
+U151,New Delhi,employed 
+U87,Pune,not_employed
+U99,NEW DELHI ,employed
+U365,Bhubaneswar,Employed
+U551,Rourkela,NOTemployed
+U194,kolkata,employed
+U208,kolkata,
+U669,rourkela,student
+U435,NEW DELHI ,not_employed
+U816,New Delhi,Employed
+U843,,employed
+U234,KOLKATA,Not employed
+U312,rourkela,STUDENT
+U558,mumbai,not_employed
+U403,,Not employed
+U379,new_delhi,Employed
+U473,bhubaneswar,STUDENT
+U666,new_delhi,not_employed
+U702,NEW DELHI ,not_employed
+U434,New Delhi,not_employed
+U703,Pune,Not employed
+U576,rourkela,Not employed
+U191,bangalore,Not employed
+U329,bhubaneswar,NOTemployed
+U101,kolkata ,STUDENT
+U188,new_delhi,
+U131,,
+U239,Bangalore,Student 
+U803,bangalore,not_employed
+U184,new_delhi,employed 
+U154,pune,employed 
+U802,kolkata ,
+U440,NEW DELHI ,NOTemployed
+U149,BHUBANESWAR,
+U646,New Delhi,student
+U58,kolkata,Employed
+U542,Bhubaneswar,NOTemployed
+U9,bangalore ,NOTemployed
+U29,Mumbai,STUDENT
+U835,Bangalore,student
+U149,BHUBANESWAR,employed
+U769,BHUBANESWAR,Not employed
+U829,bangalore,employed
+U784,rourkela,Not employed
+U836,,Employed
+U44,bangalore ,Not employed
+U234,new_delhi,employed
+U859,kolkata ,Not employed
+U471,Bangalore,Student 
+U884,Rourkela,employed 
+U711,bangalore,employed 
+U496,kolkata,Student 
+U700,bangalore ,Not employed
+U402,bhubaneswar,employed 
+U448,kolkata,NOTemployed
+U819,pune,STUDENT
+U129,pune,employed
+U112,mumbai,Not employed
+U865,kolkata ,NOTemployed
+U607,Bhubaneswar,Student 
+U60,Rourkela,NOTemployed
+U21,Bhubaneswar,NOTemployed
+U591,,employed 
+U193,BHUBANESWAR,
+U201,kolkata,employed 
+U42,mumbai,
+U863,pune,not_employed
+U446,new_delhi,employed 
+U134,bangalore ,Not employed
+U191,BHUBANESWAR,NOTemployed
+U547,new_delhi,student
+U663,Bhubaneswar,student
+U416,BHUBANESWAR,employed 
+U439,,Employed
+U852,Mumbai,employed
+U759,kolkata,Employed
+U449,NEW DELHI ,student
+U116,Rourkela,
+U16,bangalore,employed 
+U188,Bhubaneswar,employed 
+U467,NEW DELHI ,employed
+U330,rourkela,Employed
+U877,mumbai,
+U677,Bangalore,STUDENT
+U728,new_delhi,student
+U376,New Delhi,NOTemployed
+U557,mumbai,employed
+U474,Bhubaneswar,employed
+U475,bhubaneswar,employed 
+U784,bhubaneswar,Student 
+U412,bhubaneswar,Employed
+U240,Bangalore,Student 
+U168,Bhubaneswar,employed
+U101,,STUDENT
+U678,Mumbai,NOTemployed
+U818,pune,employed 
+U251,bangalore ,employed
+U256,rourkela,
+U413,KOLKATA,not_employed
+U333,mumbai,
+U15,mumbai,student
+U351,bangalore,Student 
+U19,Mumbai,employed
+U206,Rourkela,student
+U487,New Delhi,NOTemployed
+U242,Rourkela,not_employed
+U521,bangalore,not_employed
+U322,rourkela,employed
+U815,bangalore ,Employed
+U882,Mumbai,employed
+U691,Bhubaneswar,STUDENT
+U733,bhubaneswar,
+U454,kolkata,STUDENT
+U182,New Delhi,NOTemployed
+U700,rourkela,employed
+U248,rourkela,not_employed
+U337,New Delhi,employed 
+U65,Bhubaneswar,employed
+U178,NEW DELHI ,employed 
+U365,new_delhi,NOTemployed
+U200,NEW DELHI ,not_employed
+U740,Bangalore,
+U619,NEW DELHI ,employed 
+U71,Bangalore,employed 
+U42,KOLKATA,employed 
+U136,NEW DELHI ,NOTemployed
+U51,KOLKATA,student
+U627,bhubaneswar,employed
+U631,,employed 
+U462,bangalore ,employed
+U102,Pune,employed
