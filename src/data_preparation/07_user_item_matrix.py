@@ -28,11 +28,12 @@ interactions_clean["weight"] = interactions_clean["weight"].fillna(0)
 interactions_clean = interactions_clean.drop(columns="interaction_type")
 # print(interactions_clean.head())
 
+#Similar user_id, pr_id pairs may exists, so we are using group-by to combine all those pairs and view total weight
 #Grouping user_id and pr_id and converting multi-index as single index by using as_index=False, adding the columns weights and renaming it as total_weight
 grouped_interactions = interactions_clean.groupby(["user_id", "pr_id"], as_index=False).agg(total_weight=("weight", "sum"))
 # print(grouped_interactions.head())
 
-#Converting the user_id and pr_id as rows and cols respectively and weight as cell values using pandas pivot 
+#Converting the user_id and pr_id as rows and cols respectively and total_weight as cell values using pandas pivot 
 grouped_interactions = grouped_interactions.pivot(index="user_id", columns="pr_id", values="total_weight")
 grouped_interactions = grouped_interactions.fillna(0)
 # print(grouped_interactions)
