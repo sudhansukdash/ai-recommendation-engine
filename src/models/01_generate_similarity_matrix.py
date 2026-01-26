@@ -4,9 +4,10 @@
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity #Using cosine_similarity to find similarity b/w two items
 
+DATA_MODE = "full" # "full" or "train" 
 print("Generating item-item similarity matrix...")
 #Reading user-item matrix, index_col=0 replaces the default_index during read making user_id from a column to index
-user_matrix = pd.read_csv("../ai-recommendation-engine/data/processed/user_item_matrix.csv", index_col=0)
+user_matrix = pd.read_csv(f"../ai-recommendation-engine/data/processed/user_item_matrix_{DATA_MODE}.csv", index_col=0)
 
 #Transpose the matrix as we are using item-based CF and cosine similarity works on rows
 transpose_user = user_matrix.T
@@ -25,6 +26,6 @@ pr_similarity = pd.DataFrame(similarity_matrix, index=transpose_user.index, colu
 print("Item-item similarity matrix generation successful!\n")
 
 #Storing the product-product similarity matrix under data/processed
-pr_similarity.to_csv("../ai-recommendation-engine/data/processed/item_similarity_matrix.csv")
-print("File saved as item_similarity_matrix.csv under ai-recommendation-engine/data/processed")
+pr_similarity.to_csv(f"../ai-recommendation-engine/data/processed/item_similarity_matrix_{DATA_MODE}.csv")
+print(f"File saved as item_similarity_matrix_{DATA_MODE}.csv under ai-recommendation-engine/data/processed")
 

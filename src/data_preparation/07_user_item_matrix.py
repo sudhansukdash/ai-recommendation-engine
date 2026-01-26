@@ -42,6 +42,6 @@ print(f"Users, Products: {grouped_interactions.shape} items")
 
 #Saving the user-item matrix dataframe as .csv file
 #In this user_item matrix the user_id is the index itself -> pivot 
-grouped_interactions.to_csv("../ai-recommendation-engine/data/processed/user_item_matrix.csv")
+grouped_interactions.to_csv("../ai-recommendation-engine/data/processed/user_item_matrix_full.csv")
 
-print("File saved as user_item_matrix.csv under ai-recommendation-engine/data/processed")
+print("File saved as user_item_matrix_full.csv under ai-recommendation-engine/data/processed")

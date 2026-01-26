@@ -4,9 +4,10 @@
 import pandas as pd
 import random
 
+DATA_MODE = "full" # "full" or "train"
 #Read the user_item_matrix and item_similarity matrix csv files
-user_item_m = pd.read_csv("../ai-recommendation-engine/data/processed/user_item_matrix.csv", index_col=0)
-item_similarity_m = pd.read_csv("../ai-recommendation-engine/data/processed/item_similarity_matrix.csv", index_col=0)
+user_item_m = pd.read_csv(f"../ai-recommendation-engine/data/processed/user_item_matrix_{DATA_MODE}.csv", index_col=0)
+item_similarity_m = pd.read_csv(f"../ai-recommendation-engine/data/processed/item_similarity_matrix_{DATA_MODE}.csv", index_col=0)
 
 # print(user_item_m.head())
 #user-id for which we want recommendations
