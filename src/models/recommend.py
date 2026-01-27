@@ -11,7 +11,7 @@ user_item_m = pd.read_csv(f"../ai-recommendation-engine/data/processed/user_item
 item_similarity_m = pd.read_csv(f"../ai-recommendation-engine/data/processed/item_similarity_matrix_{DATA_MODE}.csv", index_col=0)
 
 #Define a function that recommends products as return value with parameters user_id and no. of recommendations(n)
-def recommend(user_id,n):
+def recommendation(user_id,n):
 
     #Retrieve the row with interaction values with different product
     user_row = user_item_m.loc[user_id]
@@ -76,4 +76,4 @@ if __name__ == "__main__":
     u_id = "U101"
     n = int(input(f"Enter no. of recommendations for {u_id}: "))
 
-    print(f"The top {n} recommendations for {u_id}: {recommend(u_id,n)}")
+    print(f"The top {n} recommendations for {u_id}: {recommendation(u_id,n)}")
