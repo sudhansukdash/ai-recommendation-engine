@@ -1,2 +1,5 @@
 #Files under data/ can be generated via scripts
 /data/
+
+#Ignores the internal python generated files
+__pycache__/
