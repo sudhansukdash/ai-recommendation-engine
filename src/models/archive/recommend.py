@@ -1,3 +1,5 @@
+#File used earlier in Item-based CF algo to recommend products
+
 #Use the ai-recommendation-engine as project root folder as links are all relative to that
 #This file gives a list of top recommendations for a user using the user matrix and item similarity matrix
 

@@ -1,3 +1,5 @@
+#File used for earlier Item-based Collaborative Filtering model to split train and test data.
+
 #Use the ai-recommendation-engine as project root folder as links are all relative to that
 #With this file the purpose is to split the complete user_item_matrix_full.csv into training and testing data
 #Here from each user_id we are just hiding one interaction to keep it simple

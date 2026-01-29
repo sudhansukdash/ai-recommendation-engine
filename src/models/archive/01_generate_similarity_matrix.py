@@ -1,10 +1,12 @@
+#File used earlier in Item-based Collaborative Filtering Model to generate item-similarity matrix from user-item matrix 
+
 #Use the ai-recommendation-engine as project root folder as links are all relative to that
 #We are using item collaborative filtering recommendation algorithm which recommends similar products
 
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity #Using cosine_similarity to find similarity b/w two items
 
-DATA_MODE = "full" # "full" or "train" 
+DATA_MODE = "train" # "full" or "train" 
 print("Generating item-item similarity matrix...")
 #Reading user-item matrix, index_col=0 replaces the default_index during read making user_id from a column to index
 user_matrix = pd.read_csv(f"../ai-recommendation-engine/data/processed/user_item_matrix_{DATA_MODE}.csv", index_col=0)

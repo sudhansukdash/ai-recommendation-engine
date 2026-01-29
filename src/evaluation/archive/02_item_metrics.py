@@ -15,7 +15,7 @@ import statistics as st
 #Read the test_interactions only no need for user-item or similarity files as its present on models file which is imported
 test_df = pd.read_csv("../ai-recommendation-engine/data/processed/test_interactions.csv")
 
-k = 5 #No of recommendations for which scores are calculated
+k = 10 #No of recommendations for which scores are calculated
 
 precision_list = []
 recall_list = []
