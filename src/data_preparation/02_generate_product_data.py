@@ -3,7 +3,7 @@
 import random, pandas as pd
 products = []
 
-print("Starting product data generation...")
+print("Starting product data generation...\n")
 #There are only 5 unique product categories: electronics, daily essential, luxury, fashion, groceries
 #Knowingly introduced ambiguities to simulate real-world pr_data
 product_categories = ["electronics","daily_essential","luxury","groceries","FAshioN", "EleCtroNicS", "Daily Essential","LUXURY", "GROCERY","daily essential","elecTronIcs ","Luxury ","fashion"]
@@ -57,9 +57,10 @@ for i in range(600):
 
 #Converting the list of dictionaries to rows and columns using DataFrame of pandas
 df = pd.DataFrame(products)
-print("Product data generation successful!\n")
+
 print(df.info())
 
+print("\nProduct data generation successful!")
 #Convert the dataframe to csv works only if project folder is the root folder
 df.to_csv("../ai-recommendation-engine/data/raw/products_raw.csv",index=False)
 

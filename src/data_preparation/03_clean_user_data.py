@@ -2,7 +2,7 @@
 #Cleaning users_raw.csv using pandas
 
 import pandas as pd
-print("Starting user data cleaning...")
+print("Starting user data cleaning...\n")
 
 #Reading the raw file into a DataFrame
 raw_users = pd.read_csv("../ai-recommendation-engine/data/raw/users_raw.csv")
@@ -31,8 +31,8 @@ clean_users["employment_status"] = clean_users["employment_status"].fillna("miss
 # print(clean_users.value_counts(subset="employment_status",dropna=False))
 
 
-print("User data cleaned successfully!\n")
 print(clean_users.info())
+print("\nUser data cleaned successfully!")
 
 #Saving this clean_users dataframe into a new users_clean.csv file
 clean_users.to_csv("../ai-recommendation-engine/data/processed/users_clean.csv", index=False)

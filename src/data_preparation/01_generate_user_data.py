@@ -3,7 +3,7 @@
 import random, pandas as pd
 users = []
 
-print("Starting user data generation...")
+print("Starting user data generation...\n")
 #Introduced casing, spacing inconsistencies in field "city" to demonstrate real-world user_data
 #There are 7 unique citites: rourkela, bhubaneswar, mumbai, pune, new delhi, kolkata, bangalore
 city = ["Rourkela","Bhubaneswar","Mumbai","New Delhi","kolkata","Pune","Bangalore","rourkela","BHUBANESWAR","KOLKATA","NEW DELHI ","mumbai","kolkata ","bangalore ","new_delhi","pune","bhubaneswar","bangalore",None]
@@ -26,9 +26,10 @@ for i in range(1200):
 
 #Using DataFrame from pandas to convert list of dictionaries into tables(rows and columns)
 df = pd.DataFrame(users)
-print("User data generation successful!\n")
+
 print(df.info())
 
+print("\nUser data generation successful!")
 #Convert dataframe to csv file using to_csv function
 df.to_csv("../ai-recommendation-engine/data/raw/users_raw.csv", index=False)
 

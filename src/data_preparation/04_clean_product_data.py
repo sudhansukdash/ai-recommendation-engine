@@ -3,7 +3,7 @@
 
 import pandas as pd
 
-print("Starting product data cleaning...")
+print("Starting product data cleaning...\n")
 
 #Reading the file and storing it in a variable as DataFrame
 raw_products = pd.read_csv("../ai-recommendation-engine/data/raw/products_raw.csv")
@@ -38,9 +38,10 @@ clean_products = clean_products.dropna(subset=["pr_cost"])
 #Giving the least rating(3.0) by default for missing values
 clean_products["pr_rating"] = clean_products["pr_rating"].fillna(3.0)
 
-print("Product data cleaned successfully!\n")
 print(clean_products.info())
+print("\nProduct data cleaned successfully!")
 
+# print(clean_products.value_counts(subset="pr_category", dropna=False))
 #Saving this clean_products dataframe into a new products_clean.csv file
 clean_products.to_csv("../ai-recommendation-engine/data/processed/products_clean.csv", index=False)
 
