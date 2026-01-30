@@ -1,7 +1,10 @@
 #Use the ai-recommendation-engine as project root folder as links are all relative to that
-#Cleaning users_raw.csv using pandas
+#Cleaning users_raw.csv using pandas and thefuzz(Fuzzy matching)
 
 import pandas as pd
+#Used to calculate similarity between two words and fix typos using mathematical Levenshtein Distance to generate scores
+from thefuzz import process 
+
 print("Starting user data cleaning...\n")
 
 #Reading the raw file into a DataFrame
@@ -20,8 +23,31 @@ clean_users = clean_users.dropna(subset="user_id")
 
 #Cleaning column: city
 # print(clean_users.value_counts(subset="city",dropna=False))
-clean_users["city"] = clean_users["city"].str.lower().str.strip().str.replace(" ", "_")
-clean_users["city"] = clean_users["city"].fillna("missing")
+
+valid_cities = [
+    'rourkela','bhubaneswar','mumbai','new_delhi','kolkata',
+    'pune','bangalore','chennai','hyderabad','ahmedabad',
+    'jaipur','lucknow','chandigarh','indore'
+]
+
+def fix_city_name(city):
+    #If this "if" block is executed then the functions exixts as there is a return block
+    if pd.isna(city):
+        return "missing"
+    
+    clean_city = city.strip().lower()
+
+    #match the closest to the clean_city from the valid_cities list and give score of match
+    match,score = process.extractOne(clean_city, valid_cities)
+
+    if score >= 70 :
+        return match
+    
+    else:
+        return "missing"
+
+#apply function iterates over each value in "city" column, using apply functions we are not calling the function, we are telling pandas to call the function for us.
+clean_users["city"] = clean_users["city"].apply(fix_city_name)
 # print(clean_users.value_counts(subset="city",dropna=False))
 
 #Cleaning column: employment_status

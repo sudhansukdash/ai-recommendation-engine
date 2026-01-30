@@ -34,17 +34,17 @@ interactions_clean = interactions_clean.drop(columns="interaction_type")
 grouped_interactions = interactions_clean.groupby(["user_id", "pr_id"], as_index=False).agg(total_weight=("weight", "max"))
 # print(grouped_interactions.head())
 
-# #Old item-based CF logic created pivot table after group by
-# #Converting the user_id and pr_id as rows and cols respectively and total_weight as cell values using pandas pivot 
-# grouped_interactions = grouped_interactions.pivot(index="user_id", columns="pr_id", values="total_weight")
-# grouped_interactions = grouped_interactions.fillna(0)
-# # print(grouped_interactions)
+
+#Converting the user_id and pr_id as rows and cols respectively and total_weight as cell values using pandas pivot 
+grouped_interactions = grouped_interactions.pivot(index="user_id", columns="pr_id", values="total_weight")
+grouped_interactions = grouped_interactions.fillna(0)
+# print(grouped_interactions)
 
 print("User-item matrix created successfully!\n")
 print(f"Users, Products: {grouped_interactions.shape} items")
 
 #Saving the user-item matrix dataframe as .csv file
 #In this user_item matrix the user_id is the index itself -> pivot (item CF based) 
-grouped_interactions.to_csv("../ai-recommendation-engine/data/processed/user_item_matrix_full.csv", index=False)
+grouped_interactions.to_csv("../ai-recommendation-engine/data/processed/user_item_matrix_full.csv")
 
 print("File saved as user_item_matrix_full.csv under ai-recommendation-engine/data/processed")

@@ -1,5 +1,5 @@
 #Use the ai-recommendation-engine as project root folder as links are all relative to that
-#Creating interactions taking user data and product data from raw csv files
+#Creating interactions taking user data and product data from clean csv files
 import random
 import pandas as pd
 
@@ -106,4 +106,4 @@ df.to_csv("../ai-recommendation-engine/data/raw/interactions_raw.csv",index=Fals
 
 print("File saved as interactions_raw.csv under ai-recommendation-engine/data/raw/")
 
-#Note: we have created synthetic data using random so we explicitly created overlapping(commoness) between things so that model learns from it, but if we have used public datasets overlapping naturally exists due to human nature in that scenario we do the opposite remove rare items like items sold only once or few because it confuses the model.
+#Note: we have created synthetic data using random so we explicitly created overlapping(commoness/clusters) between things so that model learns from it, but if we have used public datasets overlapping naturally exists due to human nature in that scenario we do the opposite remove rare items like items sold only once or few because it confuses the model.
