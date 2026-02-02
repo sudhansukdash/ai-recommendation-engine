@@ -3,12 +3,16 @@
 
 import pandas as pd
 #Used to calculate similarity between two words and fix typos using mathematical Levenshtein Distance to generate scores
-from thefuzz import process 
+from thefuzz import process
+import os
 
-print("Starting user data cleaning...\n")
+#Return the project root folder name
+PROJECT_ROOT = os.path.basename(os.getcwd())
+
+print("\nStarting user data cleaning...")
 
 #Reading the raw file into a DataFrame
-raw_users = pd.read_csv("../ai-recommendation-engine/data/raw/users_raw.csv")
+raw_users = pd.read_csv("data/raw/users_raw.csv")
 clean_users = raw_users.copy()
 # print(raw_users) #Before cleaning
 # print(raw_users.info())
@@ -53,7 +57,7 @@ clean_users["city"] = clean_users["city"].apply(fix_city_name)
 #Cleaning column: employment_status
 # print(clean_users.value_counts(subset="employment_status",dropna=False))
 clean_users["employment_status"] = clean_users["employment_status"].str.lower().str.strip().str.replace(" ","_").replace("notemployed","not_employed")
-clean_users["employment_status"] = clean_users["employment_status"].fillna("missing")
+clean_users["employment_status"] = clean_users["employment_status"].fillna("unknown")
 # print(clean_users.value_counts(subset="employment_status",dropna=False))
 
 
@@ -61,6 +65,6 @@ print(clean_users.info())
 print("\nUser data cleaned successfully!")
 
 #Saving this clean_users dataframe into a new users_clean.csv file
-clean_users.to_csv("../ai-recommendation-engine/data/processed/users_clean.csv", index=False)
+clean_users.to_csv("data/processed/users_clean.csv", index=False)
 
-print("File saved as users_clean.csv under ai-recommendation-engine/data/processed/")
+print(f"File saved as users_clean.csv under {PROJECT_ROOT}/data/processed/")

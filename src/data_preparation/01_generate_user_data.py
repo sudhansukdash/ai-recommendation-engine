@@ -2,12 +2,19 @@
 #Generate users user_data using random module and introducting inconsistencies
 import random, pandas as pd
 from faker import Faker #used faker to generate names, emails
+import os
+
+#The seed(42) ensures libraries generate same data no matter how many times we run this script
+random.seed(42)
+Faker.seed(42)
+#Return the project root folder name
+PROJECT_ROOT = os.path.basename(os.getcwd())
 
 # Initialize Faker for Indian names
 fake = Faker('en_IN')
 users = []
 
-print("Starting user data generation...\n")
+print("\nStarting user data generation...")
 
 #Introduced casing, spacing inconsistencies, typos in field "city" to demonstrate real-world user_data
 #There are 14 unique citites
@@ -61,6 +68,6 @@ print(df.info())
 
 print("\nUser data generation successful!")
 #Convert dataframe to csv file using to_csv function
-df.to_csv("../ai-recommendation-engine/data/raw/users_raw.csv", index=False)
+df.to_csv("data/raw/users_raw.csv", index=False)
 
-print("File saved as users_raw.csv under ai-recommendation-engine/data/raw/")
+print(f"File saved as users_raw.csv under {PROJECT_ROOT}/data/raw/")
