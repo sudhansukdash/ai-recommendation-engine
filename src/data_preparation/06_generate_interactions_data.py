@@ -10,7 +10,7 @@ PROJECT_ROOT = os.path.basename(os.getcwd())
 print("\nStarting Interaction data generation...")
 #Reads users and product clean data from csv and store it in form of DataFrame
 users = pd.read_csv("data/processed/users_clean.csv") 
-products = pd.read_csv("data/processed/products_clean.csv")
+products = pd.read_csv("data/processed/products_final.csv")
 
 product_catalog = {}
 
@@ -47,7 +47,8 @@ interaction_type = ["view","View","VIEW","Cart ","cart","Wishlist ","WISHLIST","
 user_lookup = pd.Series(users.employment_status.values, index=users.user_id).to_dict() #made a series then converted to dict
 all_user_ids = list(user_lookup.keys())
 
-#Creating popular products that sells the most(creating overlapping)
+#Creating popular products that sells the most(creating overlapping) as we are generating synthetic data, our interactions will be random which is not how real datasets look real data sets have the "Long Tail" distribution. The Long Tail: A small number of items (the top 30%) get the massive majority of attention (the 70%) so we are mimicing this in our synthetic gen.
+#Note: we have created synthetic data using random so we explicitly created overlapping(commoness/clusters) between things so that model learns from it, but if we have used public datasets overlapping naturally exists due to human nature in that scenario we do the opposite remove rare items like items sold only once or few because it confuses the model. 
 popular_products = {}
 
 for cat,item_list in product_catalog.items():
@@ -110,5 +111,3 @@ print("\nInteraction data generation success!")
 df.to_csv("data/raw/interactions_raw.csv",index=False)
 
 print(f"File saved as interactions_raw.csv under {PROJECT_ROOT}/data/raw/")
-
-#Note: we have created synthetic data using random so we explicitly created overlapping(commoness/clusters) between things so that model learns from it, but if we have used public datasets overlapping naturally exists due to human nature in that scenario we do the opposite remove rare items like items sold only once or few because it confuses the model.
