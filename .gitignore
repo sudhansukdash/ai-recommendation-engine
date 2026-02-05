@@ -1,5 +1,12 @@
 #Files under data/ can be generated via scripts
-/data/
+#Ignore everything in the data folder by default
+data/*
+
+#But allow the entire images folder (! used with folders/files to include explicitly)
+!data/images/
 
 #Ignores the internal python generated files
 __pycache__/
+
+#Ignore .env file
+.env
