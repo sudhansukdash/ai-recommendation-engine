@@ -5,6 +5,9 @@ data/*
 #But allow the entire images folder (! used with folders/files to include explicitly)
 !data/images/
 
+#Allow the models folder
+!data/models
+
 #Ignores the internal python generated files
 __pycache__/
 

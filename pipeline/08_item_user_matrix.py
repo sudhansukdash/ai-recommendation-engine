@@ -48,6 +48,6 @@ print(f"Users, Products: {item_user_matrix.shape} items")
 
 #Saving the user-item matrix dataframe as .csv file
 #In this user_item matrix the user_id is the index itself -> pivot (item CF based) 
-item_user_matrix.to_csv("data/processed/item_user_matrix_full.csv")
+item_user_matrix.to_csv("data/processed/item_user_matrix.csv")
 
 print(f"File saved as item_user_matrix_full.csv under {PROJECT_ROOT}/data/processed")
