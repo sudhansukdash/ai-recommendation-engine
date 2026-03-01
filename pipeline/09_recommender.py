@@ -12,7 +12,7 @@ model = NearestNeighbors(metric="cosine", algorithm="brute", n_jobs=-1, n_neighb
 model.fit(matrix) #Feed the matrix to the model
 
 #3. Define a fixed user_id
-user = "U1111"
+user = "U101"
 
 #4. Cold start logic, when user is not in dataset
 if user not in matrix.columns:
