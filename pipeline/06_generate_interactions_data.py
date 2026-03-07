@@ -57,8 +57,8 @@ for cat,item_list in product_catalog.items():
 
     popular_products[cat] = item_list[:limit] #Append 20% of products inside respective category in popular products
 
-#Creating 26000 interactions data
-for i in range(26000):
+#Creating 6000 interactions data with each loop creating around 4-6 rows
+for i in range(6000):
 
     u_id = random.choice(all_user_ids) 
     
@@ -80,27 +80,26 @@ for i in range(26000):
     #This ensures a Student is 5x more likely to pick Electronics than Grocery
     chosen_cat = random.choices(categories_order, weights=current_weights, k=1)[0]
     
-    # E. Pick a random Product from that SPECIFIC category
-    # (Safety check: if category is empty, pick random to avoid crash)
-    if chosen_cat in product_catalog and len(product_catalog[chosen_cat]) > 0:
-        
-        #random.random() chooses a number between 0.0 to 1.0 so 70% chance of being true and if there are products inside chosen category in popular products then choose a random product label
-        if random.random() < 0.7 and len(popular_products[chosen_cat]) > 0:
-            p_id = random.choice(popular_products[chosen_cat])
-        
-        #If if does not exexute choose any product from chosen category
+    #Choose a random value between 4-6
+    session_length = random.randint(4, 6)
+    #Choose a category and generate 4-6 interactions of a user id for that same category (adds depth to buying) so like users have particular taste only and they majorly buy those category items
+    for _ in range(session_length):
+        if chosen_cat in product_catalog and len(product_catalog[chosen_cat]) > 0:
+            
+            # 70% chance of popular product
+            if random.random() < 0.7 and len(popular_products[chosen_cat]) > 0:
+                p_id = random.choice(popular_products[chosen_cat])
+            else:
+                p_id = random.choice(product_catalog[chosen_cat])
         else:
-            p_id = random.choice(product_catalog[chosen_cat])
-    else:
-        p_id = random.choice(products["pr_id"].to_list())
+            p_id = random.choice(products["pr_id"].to_list())
 
-    interactions_data = {
-
-        "user_id" : u_id,
-        "pr_id" : p_id,
-        "interaction_type" : random.choice(interaction_type)
-    }
-    interactions.append(interactions_data)
+        interactions_data = {
+            "user_id" : u_id,
+            "pr_id" : p_id,
+            "interaction_type" : random.choice(interaction_type)
+        }
+        interactions.append(interactions_data)
 
 #Converting list of dictionaries to dataframes and storing it in df
 df = pd.DataFrame(interactions)
