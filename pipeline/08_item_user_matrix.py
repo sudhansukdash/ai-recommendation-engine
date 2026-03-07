@@ -3,7 +3,7 @@
 
 import pandas as pd
 import os
-from sklearn.feature_extraction.text import TfidfTransformer #To de-bias the popularity bias
+from sklearn.preprocessing import normalize #To debiase the popularity bias created
 
 #Return the project root folder name
 PROJECT_ROOT = os.path.basename(os.getcwd())
@@ -19,16 +19,14 @@ grouped_interactions = grouped_interactions.fillna(0)
 grouped_interactions = grouped_interactions.astype(float)
 
 #So when we are using popularity bias most of the users have interacted with the same product, so that popular product comes up in all users recommendations, these items act like "magnets"—they appear in everyone's history, so everyone looks "similar" just because they all bought milk or a generic t-shirt.
-#TF-IDF penalizes these hyper-popular items and gives more weight to "niche" products that specific users seem to love. We are not cancelling out the entire popularity bias but the very common products to be recommended to everyone, these two steps are a common process for a synthetic data matrix
-tfidf = TfidfTransformer()
-tfidf.fit(grouped_interactions) # Learn the IDF weights, penalises the common products and promotes the rare ones
-new_matrix = tfidf.transform(grouped_interactions) # Apply them
+print("Normalizing interaction scores...")
 
-#New matrix is sparse matrix: only cells where value>0 is present else for cell values = 0 those cells are blank
-#As we are using item based knn so the rows or index should be Product ids so we done .T at the end to convert rows in col. and vice versa
-# Rows = Items, Columns = Users
+# Using normalise l2(euclidean length) and as we are using item based CF so axis=0 mean, recommend based on similar products as products are the columns. The normalization l2 just finds the ratio of each scores about its length and gives a value 0-1, based on that similar values across users are considered similar products.
+matrix_values = normalize(grouped_interactions.values, norm='l2', axis=0)
+
+# Rows = Items, Columns = Users (Transposed for Item-Based CF)
 item_user_matrix = pd.DataFrame(
-    new_matrix.toarray(), #the toarray() converts it back appends 0 where cells are blank
+    matrix_values,
     index=grouped_interactions.index, 
     columns=grouped_interactions.columns
 ).T
