@@ -6,7 +6,12 @@ data/*
 !data/images/
 
 #Allow the models folder
-!data/models
+!data/models/
+
+#Allow the processed folders used by the app
+!data/processed/interactions_final.csv
+!data/processed/products_final.csv
+!data/processed/users_clean.csv
 
 #Ignores the internal python generated files
 __pycache__/
