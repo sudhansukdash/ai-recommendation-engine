@@ -1,0 +1,466 @@
+pr_id,pr_category,pr_name,pr_cost,pr_rating,pr_description,pr_image
+P28,luxury,Italian Clutch Custom,12190,4.2,Indulge in luxury with this italian clutch. Comes in a custom.,data/images/P28.jpg
+P190,luxury,Pure Gold Bracelet Diamond,73402,3.4,The ultimate symbol of elegance: pure gold bracelet with diamond setting.,data/images/P190.jpg
+P354,electronics,Smart Keyboard RGB,4242,4.6,Get the best in class keyboard. This smart model comes in rgb style.,data/images/P354.jpg
+P372,luxury,Pure Gold Gold Necklace Diamond,472064,4.8,The ultimate symbol of elegance: pure gold gold necklace with diamond setting.,data/images/P372.jpg
+P122,daily_essential,Strong Mask Roll,295,3.4,Essential mask for your home. This strong version comes in roll.,data/images/P122.jpg
+P185,fashion,Classic Sunglasses Black,1769,3.1,Complete your look with this classic sunglasses. Comes in a stunning black color.,data/images/P185.jpg
+P379,daily_essential,Refreshing Sanitizer Neem,284,3.9,Keep it fresh with our refreshing sanitizer. Enriched with neem.,data/images/P379.jpg
+P161,grocery,Tasty Tea Pack of 3,428,3.5,Enjoy the taste of tasty tea. The pack of 3 is great for sharing.,data/images/P161.jpg
+P451,daily_essential,Soft Towel 500ml,570,4.1,Essential towel for your home. This soft version comes in 500ml.,data/images/P451.jpg
+P530,daily_essential,Antibacterial Shampoo Large,721,4.9,Keep it fresh with our antibacterial shampoo. Enriched with large.,data/images/P530.jpg
+P303,electronics,Gaming Smartphone Fold,119368,4.0,The fold smartphone defines gaming excellence. Perfect for high-end tasks.,data/images/P303.jpg
+P49,fashion,Leather Handbag Tan,4276,4.4,This leather handbag is perfect for any occasion. Features tan details.,data/images/P49.jpg
+P17,fashion,Waterproof Watch Brown,3185,3.1,This waterproof watch is perfect for any occasion. Features brown details.,data/images/P17.jpg
+P13,grocery,Refined Sugar Sack,67,4.3,Quality refined sugar for your daily meals. Comes in a sack pack.,data/images/P13.jpg
+P41,grocery,Crunchy Biscuits Family Pack,128,4.3,Enjoy the taste of crunchy biscuits. The family pack is great for sharing.,data/images/P41.jpg
+P149,daily_essential,Strong Detergent Box,289,3.2,Essential detergent for your home. This strong version comes in box.,data/images/P149.jpg
+P208,daily_essential,Strong Towel 1L,704,4.2,Essential towel for your home. This strong version comes in 1l.,data/images/P208.jpg
+P136,fashion,Waterproof Watch Sport,3329,4.1,This waterproof watch is perfect for any occasion. Features sport details.,data/images/P136.jpg
+P103,fashion,Waterproof Sneakers Black,3587,3.8,Complete your look with this waterproof sneakers. Comes in a stunning black color.,data/images/P103.jpg
+P583,grocery,Organic Dal 1kg,81,3.5,Quality organic dal for your daily meals. Comes in a 1kg pack.,data/images/P583.jpg
+P81,fashion,Leather Handbag Brown,6414,3.6,This leather handbag is perfect for any occasion. Features brown details.,data/images/P81.jpg
+P575,electronics,Smart Mouse Mini,692,4.0,Upgrade your setup with this smart mouse. Features a mini finish.,data/images/P575.jpg
+P339,daily_essential,Daily Tissue 1L,151,3.2,Essential tissue for your home. This daily version comes in 1l.,data/images/P339.jpg
+P124,grocery,Whole Dal Bag,189,3.2,Quality whole dal for your daily meals. Comes in a bag pack.,data/images/P124.jpg
+P315,electronics,Slim Laptop Gen-2,129693,4.0,Experience the power of this slim laptop. Designed with gen-2 specs.,data/images/P315.jpg
+P576,grocery,Spicy Spices Instant,243,3.6,Enjoy the taste of spicy spices. The instant is great for sharing.,data/images/P576.jpg
+P207,daily_essential,Strong Cleaner Roll,197,3.6,Essential cleaner for your home. This strong version comes in roll.,data/images/P207.jpg
+P166,daily_essential,Soft Detergent 1L,393,4.1,Essential detergent for your home. This soft version comes in 1l.,data/images/P166.jpg
+P567,grocery,Refined Wheat 10kg,73,4.9,Quality refined wheat for your daily meals. Comes in a 10kg pack.,data/images/P567.jpg
+P180,fashion,Stylish Heels Brown,3922,4.5,This stylish heels is perfect for any occasion. Features brown details.,data/images/P180.jpg
+P503,daily_essential,Soft Tissue Active,43,4.0,Essential tissue for your home. This soft version comes in active.,data/images/P503.jpg
+P540,luxury,Limited Edition Luxury Watch Signature,74285,3.9,Indulge in luxury with this limited edition luxury watch. Comes in a signature.,data/images/P540.jpg
+P479,luxury,Royal Clutch Classic,11952,3.9,Indulge in luxury with this royal clutch. Comes in a classic.,data/images/P479.jpg
+P206,daily_essential,Gentle Toothpaste Lemon,138,4.8,Keep it fresh with our gentle toothpaste. Enriched with lemon.,data/images/P206.jpg
+P321,grocery,Whole Rice 5kg,474,3.4,Quality whole rice for your daily meals. Comes in a 5kg pack.,data/images/P321.jpg
+P69,luxury,Elegant Luxury Watch Velvet Box,180796,4.6,Indulge in luxury with this elegant luxury watch. Comes in a velvet box.,data/images/P69.jpg
+P259,electronics,High-Performance Monitor 2025 Edition,24988,3.7,Experience the power of this high-performance monitor. Designed with 2025 edition specs.,data/images/P259.jpg
+P422,luxury,Handcrafted Gold Necklace Ruby,128784,4.5,The ultimate symbol of elegance: handcrafted gold necklace with ruby setting.,data/images/P422.jpg
+P627,luxury,Pure Gold Diamond Ring Ruby,76739,4.1,The ultimate symbol of elegance: pure gold diamond ring with ruby setting.,data/images/P627.jpg
+P378,fashion,Leather Heels Brown,3734,4.6,This leather heels is perfect for any occasion. Features brown details.,data/images/P378.jpg
+P417,luxury,Handcrafted Earrings 24k,39419,4.4,The ultimate symbol of elegance: handcrafted earrings with 24k setting.,data/images/P417.jpg
+P170,fashion,Stylish Watch Brown,1017,3.4,Complete your look with this stylish watch. Comes in a stunning brown color.,data/images/P170.jpg
+P387,electronics,Fast Smartphone Gen-2,63841,3.1,Experience the power of this fast smartphone. Designed with gen-2 specs.,data/images/P387.jpg
+P443,electronics,Wireless Headphones Silver,13529,4.3,Upgrade your setup with this wireless headphones. Features a silver finish.,data/images/P443.jpg
+P255,daily_essential,Herbal Toothpaste Neem,183,4.3,Keep it fresh with our herbal toothpaste. Enriched with neem.,data/images/P255.jpg
+P415,luxury,Rare Perfume Signature,6107,3.9,Indulge in luxury with this rare perfume. Comes in a signature.,data/images/P415.jpg
+P240,daily_essential,Antibacterial Toothpaste Mint,112,4.8,Keep it fresh with our antibacterial toothpaste. Enriched with mint.,data/images/P240.jpg
+P362,fashion,Waterproof Handbag Brown,6498,4.2,Complete your look with this waterproof handbag. Comes in a stunning brown color.,data/images/P362.jpg
+P92,daily_essential,Soft Mask Box,50,4.0,Essential mask for your home. This soft version comes in box.,data/images/P92.jpg
+P232,daily_essential,Soft Tissue 500ml,46,3.3,Essential tissue for your home. This soft version comes in 500ml.,data/images/P232.jpg
+P98,fashion,Casual Jeans Black,1910,3.1,Stay trendy with our casual jeans. A classic choice in black.,data/images/P98.jpg
+P432,electronics,High-Performance Monitor Pro-Max,22811,4.0,Experience the power of this high-performance monitor. Designed with pro-max specs.,data/images/P432.jpg
+P238,fashion,Premium Heels Luxury Edition,5209,3.1,This premium heels is perfect for any occasion. Features luxury edition details.,data/images/P238.jpg
+P615,daily_essential,Cool Toothpaste Mint,188,4.6,Keep it fresh with our cool toothpaste. Enriched with mint.,data/images/P615.jpg
+P198,fashion,Premium Sunglasses Tan,5674,4.3,Complete your look with this premium sunglasses. Comes in a stunning tan color.,data/images/P198.jpg
+P396,fashion,Vintage Sunglasses Luxury Edition,1176,4.4,This vintage sunglasses is perfect for any occasion. Features luxury edition details.,data/images/P396.jpg
+P261,daily_essential,Strong Tissue 1L,182,3.0,Essential tissue for your home. This strong version comes in 1l.,data/images/P261.jpg
+P52,luxury,Exclusive Earrings 24k,8968,3.2,The ultimate symbol of elegance: exclusive earrings with 24k setting.,data/images/P52.jpg
+P34,luxury,Pure Gold Gold Necklace Diamond,309504,4.3,The ultimate symbol of elegance: pure gold gold necklace with diamond setting.,data/images/P34.jpg
+P471,electronics,Ergonomic Smartwatch Bass Boost,22182,4.5,Get the best in class smartwatch. This ergonomic model comes in bass boost style.,data/images/P471.jpg
+P623,daily_essential,Daily Mask Active,316,3.2,Essential mask for your home. This daily version comes in active.,data/images/P623.jpg
+P179,daily_essential,Strong Cleaner Active,292,4.8,Essential cleaner for your home. This strong version comes in active.,data/images/P179.jpg
+P39,daily_essential,Strong Detergent Box,550,4.6,Essential detergent for your home. This strong version comes in box.,data/images/P39.jpg
+P174,grocery,Whole Dal Sack,156,4.9,Quality whole dal for your daily meals. Comes in a sack pack.,data/images/P174.jpg
+P645,grocery,Tasty Oil Instant,1424,4.6,Enjoy the taste of tasty oil. The instant is great for sharing.,data/images/P645.jpg
+P107,electronics,Pro Tablet 2025 Edition,38987,3.5,Experience the power of this pro tablet. Designed with 2025 edition specs.,data/images/P107.jpg
+P223,daily_essential,Soft Tissue Roll,182,4.2,Essential tissue for your home. This soft version comes in roll.,data/images/P223.jpg
+P241,electronics,High-Performance Monitor Pro-Max,27245,4.4,The pro-max monitor defines high-performance excellence. Perfect for high-end tasks.,data/images/P241.jpg
+P214,daily_essential,Strong Mask 500ml,480,3.1,Essential mask for your home. This strong version comes in 500ml.,data/images/P214.jpg
+P243,electronics,Smart Smartwatch Black,14418,3.0,Upgrade your setup with this smart smartwatch. Features a black finish.,data/images/P243.jpg
+P457,daily_essential,Herbal Soap Pack of 2,31,3.9,Keep it fresh with our herbal soap. Enriched with pack of 2.,data/images/P457.jpg
+P79,fashion,Premium Heels Black,2514,3.3,This premium heels is perfect for any occasion. Features black details.,data/images/P79.jpg
+P447,grocery,Polished Sugar Bag,62,4.5,Quality polished sugar for your daily meals. Comes in a bag pack.,data/images/P447.jpg
+P2,electronics,High-Performance Tablet 2025 Edition,50839,3.6,The 2025 edition tablet defines high-performance excellence. Perfect for high-end tasks.,data/images/P2.jpg
+P572,grocery,Spicy Spices Box,398,4.7,Enjoy the taste of spicy spices. The box is great for sharing.,data/images/P572.jpg
+P621,luxury,Genuine Gold Necklace Ruby,192145,4.2,The ultimate symbol of elegance: genuine gold necklace with ruby setting.,data/images/P621.jpg
+P395,daily_essential,Herbal Sanitizer Aloe Vera,241,3.2,Keep it fresh with our herbal sanitizer. Enriched with aloe vera.,data/images/P395.jpg
+P110,daily_essential,Strong Mask Active,498,4.0,Essential mask for your home. This strong version comes in active.,data/images/P110.jpg
+P511,electronics,Ultra Smartphone Fold,62077,3.8,Experience the power of this ultra smartphone. Designed with fold specs.,data/images/P511.jpg
+P176,luxury,Handcrafted Diamond Ring Ruby,116066,4.3,The ultimate symbol of elegance: handcrafted diamond ring with ruby setting.,data/images/P176.jpg
+P140,grocery,Organic Wheat 5kg,159,3.6,Quality organic wheat for your daily meals. Comes in a 5kg pack.,data/images/P140.jpg
+P145,daily_essential,Gentle Face Wash Mint,230,3.3,Keep it fresh with our gentle face wash. Enriched with mint.,data/images/P145.jpg
+P96,daily_essential,Hygenic Detergent 500ml,260,3.7,Essential detergent for your home. This hygenic version comes in 500ml.,data/images/P96.jpg
+P141,fashion,Cotton T-Shirt Blue,1201,3.7,Upgrade your wardrobe with this cotton t-shirt. The blue size fits perfectly.,data/images/P141.jpg
+P173,electronics,Ultra Smartphone Pro-Max,53258,3.2,Experience the power of this ultra smartphone. Designed with pro-max specs.,data/images/P173.jpg
+P168,daily_essential,Antibacterial Toothpaste Mint,142,3.2,Keep it fresh with our antibacterial toothpaste. Enriched with mint.,data/images/P168.jpg
+P405,daily_essential,Soft Tissue Box,138,4.2,Essential tissue for your home. This soft version comes in box.,data/images/P405.jpg
+P550,electronics,Slim Tablet Fold,47837,3.4,The fold tablet defines slim excellence. Perfect for high-end tasks.,data/images/P550.jpg
+P68,fashion,Stylish Heels Sport,1826,4.8,Complete your look with this stylish heels. Comes in a stunning sport color.,data/images/P68.jpg
+P278,electronics,Ultra Smartphone 2025 Edition,45636,3.4,Experience the power of this ultra smartphone. Designed with 2025 edition specs.,data/images/P278.jpg
+P244,fashion,Printed Kurta Small,2037,4.1,Upgrade your wardrobe with this printed kurta. The small size fits perfectly.,data/images/P244.jpg
+P217,electronics,Compact Speaker Black,16018,4.4,Upgrade your setup with this compact speaker. Features a black finish.,data/images/P217.jpg
+P494,daily_essential,Herbal Sanitizer Aloe Vera,92,4.4,Keep it fresh with our herbal sanitizer. Enriched with aloe vera.,data/images/P494.jpg
+P61,electronics,Bluetooth Headphones Silver,11960,3.9,Get the best in class headphones. This bluetooth model comes in silver style.,data/images/P61.jpg
+P167,fashion,Leather Watch Tan,10302,4.3,This leather watch is perfect for any occasion. Features tan details.,data/images/P167.jpg
+P327,fashion,Vintage Heels Luxury Edition,3255,3.9,This vintage heels is perfect for any occasion. Features luxury edition details.,data/images/P327.jpg
+P43,fashion,Cotton T-Shirt Black,731,4.5,Stay trendy with our cotton t-shirt. A classic choice in black.,data/images/P43.jpg
+P526,fashion,Waterproof Sneakers Sport,4328,3.7,This waterproof sneakers is perfect for any occasion. Features sport details.,data/images/P526.jpg
+P229,daily_essential,Daily Mask Roll,306,4.7,Essential mask for your home. This daily version comes in roll.,data/images/P229.jpg
+P648,luxury,Handcrafted Bracelet 18k,21389,3.3,The ultimate symbol of elegance: handcrafted bracelet with 18k setting.,data/images/P648.jpg
+P55,grocery,Premium Sugar 10kg,73,4.6,Quality premium sugar for your daily meals. Comes in a 10kg pack.,data/images/P55.jpg
+P118,electronics,Pro Tablet Fold,42621,4.1,Experience the power of this pro tablet. Designed with fold specs.,data/images/P118.jpg
+P250,electronics,Fast Laptop Max,177538,4.7,Experience the power of this fast laptop. Designed with max specs.,data/images/P250.jpg
+P196,fashion,Casual T-Shirt Blue,1281,3.4,Upgrade your wardrobe with this casual t-shirt. The blue size fits perfectly.,data/images/P196.jpg
+P322,electronics,High-Performance Tablet Pro-Max,10610,3.9,Experience the power of this high-performance tablet. Designed with pro-max specs.,data/images/P322.jpg
+P42,luxury,Royal Perfume Premium,4734,3.0,Indulge in luxury with this royal perfume. Comes in a premium.,data/images/P42.jpg
+P483,electronics,Noise-Cancelling Mouse RGB,2902,4.6,Upgrade your setup with this noise-cancelling mouse. Features a rgb finish.,data/images/P483.jpg
+P281,daily_essential,Herbal Soap Pack of 2,107,4.1,Keep it fresh with our herbal soap. Enriched with pack of 2.,data/images/P281.jpg
+P297,luxury,Exclusive Bracelet Platinum,39653,4.4,The ultimate symbol of elegance: exclusive bracelet with platinum setting.,data/images/P297.jpg
+P80,electronics,Smart Mouse RGB,1485,3.2,Get the best in class mouse. This smart model comes in rgb style.,data/images/P80.jpg
+P83,electronics,Ergonomic Speaker RGB,19228,3.1,Get the best in class speaker. This ergonomic model comes in rgb style.,data/images/P83.jpg
+P381,fashion,Slim-Fit Suit Large,10253,3.5,Upgrade your wardrobe with this slim-fit suit. The large size fits perfectly.,data/images/P381.jpg
+P353,luxury,Imported Bracelet 18k,35729,4.5,The ultimate symbol of elegance: imported bracelet with 18k setting.,data/images/P353.jpg
+P156,daily_essential,Antibacterial Soap Lemon,46,4.4,Keep it fresh with our antibacterial soap. Enriched with lemon.,data/images/P156.jpg
+P254,electronics,Fast Smartphone Max,25096,4.3,Experience the power of this fast smartphone. Designed with max specs.,data/images/P254.jpg
+P518,fashion,Summer Saree Small,4487,3.9,Upgrade your wardrobe with this summer saree. The small size fits perfectly.,data/images/P518.jpg
+P127,electronics,Smart Mouse RGB,743,4.3,Get the best in class mouse. This smart model comes in rgb style.,data/images/P127.jpg
+P247,grocery,Crunchy Chips Family Pack,23,4.2,Enjoy the taste of crunchy chips. The family pack is great for sharing.,data/images/P247.jpg
+P639,grocery,Pure Oil Jar,1260,4.1,Enjoy the taste of pure oil. The jar is great for sharing.,data/images/P639.jpg
+P613,fashion,Cotton Jeans Red,1759,4.0,Stay trendy with our cotton jeans. A classic choice in red.,data/images/P613.jpg
+P195,electronics,Ergonomic Headphones Silver,1828,4.5,Upgrade your setup with this ergonomic headphones. Features a silver finish.,data/images/P195.jpg
+P553,fashion,Silk Jeans Blue,3781,4.9,Upgrade your wardrobe with this silk jeans. The blue size fits perfectly.,data/images/P553.jpg
+P536,luxury,Exclusive Diamond Ring 24k,180445,4.8,The ultimate symbol of elegance: exclusive diamond ring with 24k setting.,data/images/P536.jpg
+P191,luxury,Elegant Suit Classic,18462,4.8,Indulge in luxury with this elegant suit. Comes in a classic.,data/images/P191.jpg
+P109,luxury,Royal Leather Bag Signature,63664,4.4,Indulge in luxury with this royal leather bag. Comes in a signature.,data/images/P109.jpg
+P169,fashion,Waterproof Sneakers Black,2489,4.7,This waterproof sneakers is perfect for any occasion. Features black details.,data/images/P169.jpg
+P557,fashion,Printed Saree Large,14251,3.2,Upgrade your wardrobe with this printed saree. The large size fits perfectly.,data/images/P557.jpg
+P300,daily_essential,Refreshing Sanitizer Large,275,4.1,Keep it fresh with our refreshing sanitizer. Enriched with large.,data/images/P300.jpg
+P325,luxury,Italian Silk Saree Custom,7273,4.3,Indulge in luxury with this italian silk saree. Comes in a custom.,data/images/P325.jpg
+P361,fashion,Premium Watch Brown,22120,4.6,Complete your look with this premium watch. Comes in a stunning brown color.,data/images/P361.jpg
+P546,luxury,Italian Clutch Signature,9501,3.2,Indulge in luxury with this italian clutch. Comes in a signature.,data/images/P546.jpg
+P209,fashion,Waterproof Sneakers Black,6325,4.9,Complete your look with this waterproof sneakers. Comes in a stunning black color.,data/images/P209.jpg
+P632,grocery,Aromatic Tea Pouch,189,3.5,Enjoy the taste of aromatic tea. The pouch is great for sharing.,data/images/P632.jpg
+P286,grocery,Refined Wheat 10kg,124,3.9,Quality refined wheat for your daily meals. Comes in a 10kg pack.,data/images/P286.jpg
+P412,grocery,Polished Rice 10kg,60,3.6,Quality polished rice for your daily meals. Comes in a 10kg pack.,data/images/P412.jpg
+P521,daily_essential,Cool Soap Mint,132,3.2,Keep it fresh with our cool soap. Enriched with mint.,data/images/P521.jpg
+P276,fashion,Leather Sunglasses Brown,4723,4.4,This leather sunglasses is perfect for any occasion. Features brown details.,data/images/P276.jpg
+P360,electronics,Bluetooth Keyboard Mini,1155,4.7,Upgrade your setup with this bluetooth keyboard. Features a mini finish.,data/images/P360.jpg
+P89,electronics,Fast Monitor Fold,19023,3.1,The fold monitor defines fast excellence. Perfect for high-end tasks.,data/images/P89.jpg
+P26,grocery,Aromatic Biscuits Pouch,31,3.6,Enjoy the taste of aromatic biscuits. The pouch is great for sharing.,data/images/P26.jpg
+P628,luxury,Exclusive Diamond Ring 18k,70213,4.8,The ultimate symbol of elegance: exclusive diamond ring with 18k setting.,data/images/P628.jpg
+P499,electronics,Noise-Cancelling Headphones Sport Edition,1125,3.4,Upgrade your setup with this noise-cancelling headphones. Features a sport edition finish.,data/images/P499.jpg
+P437,electronics,Smart Keyboard Black,3138,4.2,Upgrade your setup with this smart keyboard. Features a black finish.,data/images/P437.jpg
+P441,fashion,Slim-Fit T-Shirt Blue,793,3.4,Upgrade your wardrobe with this slim-fit t-shirt. The blue size fits perfectly.,data/images/P441.jpg
+P545,fashion,Formal T-Shirt Blue,335,4.0,Stay trendy with our formal t-shirt. A classic choice in blue.,data/images/P545.jpg
+P649,grocery,Aromatic Biscuits Family Pack,69,3.6,Enjoy the taste of aromatic biscuits. The family pack is great for sharing.,data/images/P649.jpg
+P402,daily_essential,Refreshing Soap Neem,45,4.9,Keep it fresh with our refreshing soap. Enriched with neem.,data/images/P402.jpg
+P220,grocery,Whole Wheat Bag,42,3.9,Quality whole wheat for your daily meals. Comes in a bag pack.,data/images/P220.jpg
+P355,grocery,Organic Sugar Bag,46,3.4,Quality organic sugar for your daily meals. Comes in a bag pack.,data/images/P355.jpg
+P537,grocery,Premium Wheat 5kg,154,3.1,Quality premium wheat for your daily meals. Comes in a 5kg pack.,data/images/P537.jpg
+P111,electronics,Noise-Cancelling Smartwatch Sport Edition,12000,4.6,Get the best in class smartwatch. This noise-cancelling model comes in sport edition style.,data/images/P111.jpg
+P285,luxury,Italian Silk Saree Signature,16443,4.7,Indulge in luxury with this italian silk saree. Comes in a signature.,data/images/P285.jpg
+P150,luxury,Italian Clutch Velvet Box,10202,4.5,Indulge in luxury with this italian clutch. Comes in a velvet box.,data/images/P150.jpg
+P138,luxury,Limited Edition Leather Bag Premium,54283,4.1,Indulge in luxury with this limited edition leather bag. Comes in a premium.,data/images/P138.jpg
+P383,grocery,Whole Rice Sack,119,4.5,Quality whole rice for your daily meals. Comes in a sack pack.,data/images/P383.jpg
+P442,daily_essential,Hygenic Detergent Roll,580,4.5,Essential detergent for your home. This hygenic version comes in roll.,data/images/P442.jpg
+P555,daily_essential,Strong Towel Active,444,3.6,Essential towel for your home. This strong version comes in active.,data/images/P555.jpg
+P430,fashion,Casual Jeans Small,2585,3.1,Upgrade your wardrobe with this casual jeans. The small size fits perfectly.,data/images/P430.jpg
+P474,fashion,Silk Jeans Red,3820,4.2,Upgrade your wardrobe with this silk jeans. The red size fits perfectly.,data/images/P474.jpg
+P469,grocery,Polished Rice 10kg,210,4.2,Quality polished rice for your daily meals. Comes in a 10kg pack.,data/images/P469.jpg
+P305,fashion,Printed Suit Large,16429,4.1,Stay trendy with our printed suit. A classic choice in large.,data/images/P305.jpg
+P337,electronics,Gaming Tablet Max,41798,3.2,The max tablet defines gaming excellence. Perfect for high-end tasks.,data/images/P337.jpg
+P468,daily_essential,Gentle Soap Aloe Vera,124,3.1,Keep it fresh with our gentle soap. Enriched with aloe vera.,data/images/P468.jpg
+P564,daily_essential,Refreshing Toothpaste Lemon,184,3.4,Keep it fresh with our refreshing toothpaste. Enriched with lemon.,data/images/P564.jpg
+P25,daily_essential,Gentle Shampoo Neem,551,3.1,Keep it fresh with our gentle shampoo. Enriched with neem.,data/images/P25.jpg
+P589,daily_essential,Daily Cleaner 500ml,497,3.9,Essential cleaner for your home. This daily version comes in 500ml.,data/images/P589.jpg
+P544,luxury,Pure Gold Earrings 24k,38601,4.4,The ultimate symbol of elegance: pure gold earrings with 24k setting.,data/images/P544.jpg
+P263,electronics,Gaming Laptop Lite,95351,4.4,The lite laptop defines gaming excellence. Perfect for high-end tasks.,data/images/P263.jpg
+P121,grocery,Premium Dal Sack,286,4.3,Quality premium dal for your daily meals. Comes in a sack pack.,data/images/P121.jpg
+P294,electronics,Gaming Tablet Lite,53224,3.5,Experience the power of this gaming tablet. Designed with lite specs.,data/images/P294.jpg
+P172,luxury,Italian Leather Bag Signature,15983,3.9,Indulge in luxury with this italian leather bag. Comes in a signature.,data/images/P172.jpg
+P258,daily_essential,Herbal Soap Neem,42,3.1,Keep it fresh with our herbal soap. Enriched with neem.,data/images/P258.jpg
+P591,daily_essential,Soft Detergent 500ml,358,3.6,Essential detergent for your home. This soft version comes in 500ml.,data/images/P591.jpg
+P272,luxury,Limited Edition Perfume Signature,11697,3.6,Indulge in luxury with this limited edition perfume. Comes in a signature.,data/images/P272.jpg
+P485,daily_essential,Gentle Face Wash Pack of 2,234,4.2,Keep it fresh with our gentle face wash. Enriched with pack of 2.,data/images/P485.jpg
+P94,electronics,Slim Smartphone Max,23823,3.7,The max smartphone defines slim excellence. Perfect for high-end tasks.,data/images/P94.jpg
+P497,electronics,Ultra Smartphone Fold,82518,3.2,Experience the power of this ultra smartphone. Designed with fold specs.,data/images/P497.jpg
+P182,grocery,Premium Wheat Sack,204,3.1,Quality premium wheat for your daily meals. Comes in a sack pack.,data/images/P182.jpg
+P295,luxury,Imported Diamond Ring Platinum,37491,4.1,The ultimate symbol of elegance: imported diamond ring with platinum setting.,data/images/P295.jpg
+P344,fashion,Formal T-Shirt Red,1260,3.9,Upgrade your wardrobe with this formal t-shirt. The red size fits perfectly.,data/images/P344.jpg
+P588,daily_essential,Herbal Face Wash Large,235,3.4,Keep it fresh with our herbal face wash. Enriched with large.,data/images/P588.jpg
+P625,electronics,Smart Camera Mini,102756,4.2,Upgrade your setup with this smart camera. Features a mini finish.,data/images/P625.jpg
+P85,daily_essential,Cool Sanitizer Lemon,152,4.0,Keep it fresh with our cool sanitizer. Enriched with lemon.,data/images/P85.jpg
+P488,fashion,Vintage Handbag Brown,6343,4.1,Complete your look with this vintage handbag. Comes in a stunning brown color.,data/images/P488.jpg
+P477,daily_essential,Refreshing Sanitizer Lemon,96,4.3,Keep it fresh with our refreshing sanitizer. Enriched with lemon.,data/images/P477.jpg
+P134,grocery,Polished Dal 1kg,113,4.2,Quality polished dal for your daily meals. Comes in a 1kg pack.,data/images/P134.jpg
+P163,electronics,Compact Camera Silver,112838,4.5,Get the best in class camera. This compact model comes in silver style.,data/images/P163.jpg
+P584,electronics,High-Performance Laptop Lite,44925,3.4,The lite laptop defines high-performance excellence. Perfect for high-end tasks.,data/images/P584.jpg
+P72,luxury,Italian Suit Custom,27090,3.9,Indulge in luxury with this italian suit. Comes in a custom.,data/images/P72.jpg
+P547,daily_essential,Cool Toothpaste Pack of 2,129,4.3,Keep it fresh with our cool toothpaste. Enriched with pack of 2.,data/images/P547.jpg
+P165,electronics,Ergonomic Speaker Sport Edition,16403,3.2,Upgrade your setup with this ergonomic speaker. Features a sport edition finish.,data/images/P165.jpg
+P607,luxury,Imported Bracelet Platinum,4291,4.0,The ultimate symbol of elegance: imported bracelet with platinum setting.,data/images/P607.jpg
+P376,daily_essential,Refreshing Soap Lemon,103,3.8,Keep it fresh with our refreshing soap. Enriched with lemon.,data/images/P376.jpg
+P226,daily_essential,Cool Shampoo Lemon,369,3.5,Keep it fresh with our cool shampoo. Enriched with lemon.,data/images/P226.jpg
+P369,daily_essential,Refreshing Toothpaste Neem,151,3.8,Keep it fresh with our refreshing toothpaste. Enriched with neem.,data/images/P369.jpg
+P18,fashion,Formal Kurta Black,2944,3.9,Upgrade your wardrobe with this formal kurta. The black size fits perfectly.,data/images/P18.jpg
+P128,electronics,Compact Mouse RGB,1472,3.8,Get the best in class mouse. This compact model comes in rgb style.,data/images/P128.jpg
+P416,fashion,Printed Jeans Red,2702,3.4,Stay trendy with our printed jeans. A classic choice in red.,data/images/P416.jpg
+P605,grocery,Aromatic Spices Pouch,363,3.1,Enjoy the taste of aromatic spices. The pouch is great for sharing.,data/images/P605.jpg
+P595,luxury,Genuine Gold Necklace Platinum,294013,4.3,The ultimate symbol of elegance: genuine gold necklace with platinum setting.,data/images/P595.jpg
+P62,electronics,Wireless Keyboard Sport Edition,3964,4.6,Get the best in class keyboard. This wireless model comes in sport edition style.,data/images/P62.jpg
+P462,daily_essential,Antibacterial Face Wash Lemon,454,4.2,Keep it fresh with our antibacterial face wash. Enriched with lemon.,data/images/P462.jpg
+P203,fashion,Waterproof Sneakers Black,5560,4.4,Complete your look with this waterproof sneakers. Comes in a stunning black color.,data/images/P203.jpg
+P439,luxury,Royal Silk Saree Custom,30564,4.2,Indulge in luxury with this royal silk saree. Comes in a custom.,data/images/P439.jpg
+P73,daily_essential,Gentle Soap Pack of 2,122,3.4,Keep it fresh with our gentle soap. Enriched with pack of 2.,data/images/P73.jpg
+P348,electronics,Pro Monitor Max,20030,4.4,Experience the power of this pro monitor. Designed with max specs.,data/images/P348.jpg
+P397,daily_essential,Refreshing Soap Neem,143,3.6,Keep it fresh with our refreshing soap. Enriched with neem.,data/images/P397.jpg
+P27,electronics,Pro Tablet Max,24449,3.2,The max tablet defines pro excellence. Perfect for high-end tasks.,data/images/P27.jpg
+P197,luxury,Limited Edition Luxury Watch Premium,269379,4.7,Indulge in luxury with this limited edition luxury watch. Comes in a premium.,data/images/P197.jpg
+P266,grocery,Fresh Chips Pack of 3,74,3.5,Enjoy the taste of fresh chips. The pack of 3 is great for sharing.,data/images/P266.jpg
+P599,luxury,Handcrafted Earrings 24k,13478,3.4,The ultimate symbol of elegance: handcrafted earrings with 24k setting.,data/images/P599.jpg
+P345,electronics,Ultra Tablet Fold,16701,4.4,The fold tablet defines ultra excellence. Perfect for high-end tasks.,data/images/P345.jpg
+P323,electronics,Smart Keyboard Silver,1643,3.5,Get the best in class keyboard. This smart model comes in silver style.,data/images/P323.jpg
+P65,fashion,Summer Jacket Medium,2433,3.5,Stay trendy with our summer jacket. A classic choice in medium.,data/images/P65.jpg
+P505,grocery,Crunchy Oil Instant,484,3.2,Enjoy the taste of crunchy oil. The instant is great for sharing.,data/images/P505.jpg
+P446,luxury,Italian Suit Classic,8190,4.7,Indulge in luxury with this italian suit. Comes in a classic.,data/images/P446.jpg
+P313,luxury,Pure Gold Earrings 24k,14120,4.5,The ultimate symbol of elegance: pure gold earrings with 24k setting.,data/images/P313.jpg
+P66,electronics,Wireless Camera Silver,76049,4.7,Get the best in class camera. This wireless model comes in silver style.,data/images/P66.jpg
+P341,electronics,Ergonomic Keyboard Silver,1804,4.5,Get the best in class keyboard. This ergonomic model comes in silver style.,data/images/P341.jpg
+P642,grocery,Refined Rice Sack,443,4.1,Quality refined rice for your daily meals. Comes in a sack pack.,data/images/P642.jpg
+P159,electronics,Gaming Smartphone Gen-2,50263,4.4,Experience the power of this gaming smartphone. Designed with gen-2 specs.,data/images/P159.jpg
+P525,fashion,Slim-Fit Jacket Blue,4655,3.0,Stay trendy with our slim-fit jacket. A classic choice in blue.,data/images/P525.jpg
+P631,daily_essential,Refreshing Soap Lemon,147,3.9,Keep it fresh with our refreshing soap. Enriched with lemon.,data/images/P631.jpg
+P427,daily_essential,Gentle Soap Pack of 2,36,3.6,Keep it fresh with our gentle soap. Enriched with pack of 2.,data/images/P427.jpg
+P212,fashion,Vintage Heels Luxury Edition,3451,4.9,Complete your look with this vintage heels. Comes in a stunning luxury edition color.,data/images/P212.jpg
+P268,electronics,Fast Laptop Gen-2,125491,4.5,The gen-2 laptop defines fast excellence. Perfect for high-end tasks.,data/images/P268.jpg
+P234,electronics,Ultra Monitor Pro-Max,51587,4.5,Experience the power of this ultra monitor. Designed with pro-max specs.,data/images/P234.jpg
+P470,luxury,Exclusive Diamond Ring Ruby,189671,4.3,The ultimate symbol of elegance: exclusive diamond ring with ruby setting.,data/images/P470.jpg
+P611,electronics,Wireless Mouse RGB,2499,4.4,Upgrade your setup with this wireless mouse. Features a rgb finish.,data/images/P611.jpg
+P554,fashion,Slim-Fit Suit Blue,6759,3.2,Stay trendy with our slim-fit suit. A classic choice in blue.,data/images/P554.jpg
+P522,grocery,Fresh Chips Jar,69,3.2,Enjoy the taste of fresh chips. The jar is great for sharing.,data/images/P522.jpg
+P647,electronics,Fast Tablet 2025 Edition,40260,3.9,The 2025 edition tablet defines fast excellence. Perfect for high-end tasks.,data/images/P647.jpg
+P543,grocery,Premium Wheat 10kg,277,4.7,Quality premium wheat for your daily meals. Comes in a 10kg pack.,data/images/P543.jpg
+P74,grocery,Polished Rice 10kg,94,3.1,Quality polished rice for your daily meals. Comes in a 10kg pack.,data/images/P74.jpg
+P280,fashion,Classic Sunglasses Tan,4037,3.4,This classic sunglasses is perfect for any occasion. Features tan details.,data/images/P280.jpg
+P37,grocery,Crunchy Spices Jar,213,3.5,Enjoy the taste of crunchy spices. The jar is great for sharing.,data/images/P37.jpg
+P444,grocery,Refined Rice 1kg,408,4.6,Quality refined rice for your daily meals. Comes in a 1kg pack.,data/images/P444.jpg
+P556,luxury,Pure Gold Diamond Ring 18k,137995,3.6,The ultimate symbol of elegance: pure gold diamond ring with 18k setting.,data/images/P556.jpg
+P429,fashion,Premium Heels Brown,4249,4.2,Complete your look with this premium heels. Comes in a stunning brown color.,data/images/P429.jpg
+P343,fashion,Vintage Handbag Luxury Edition,3730,3.2,Complete your look with this vintage handbag. Comes in a stunning luxury edition color.,data/images/P343.jpg
+P6,fashion,Casual Jacket Medium,2410,4.5,Stay trendy with our casual jacket. A classic choice in medium.,data/images/P6.jpg
+P210,fashion,Stylish Handbag Sport,3526,3.5,This stylish handbag is perfect for any occasion. Features sport details.,data/images/P210.jpg
+P4,fashion,Waterproof Sunglasses Luxury Edition,4857,3.7,This waterproof sunglasses is perfect for any occasion. Features luxury edition details.,data/images/P4.jpg
+P424,daily_essential,Refreshing Sanitizer Aloe Vera,192,4.0,Keep it fresh with our refreshing sanitizer. Enriched with aloe vera.,data/images/P424.jpg
+P620,daily_essential,Herbal Soap Aloe Vera,140,3.3,Keep it fresh with our herbal soap. Enriched with aloe vera.,data/images/P620.jpg
+P101,luxury,Handcrafted Earrings 18k,33746,3.1,The ultimate symbol of elegance: handcrafted earrings with 18k setting.,data/images/P101.jpg
+P604,grocery,Pure Spices Instant,253,3.7,Enjoy the taste of pure spices. The instant is great for sharing.,data/images/P604.jpg
+P84,grocery,Pure Tea Pouch,193,4.2,Enjoy the taste of pure tea. The pouch is great for sharing.,data/images/P84.jpg
+P401,luxury,Royal Leather Bag Custom,18511,4.3,Indulge in luxury with this royal leather bag. Comes in a custom.,data/images/P401.jpg
+P162,grocery,Spicy Chips Instant,47,4.6,Enjoy the taste of spicy chips. The instant is great for sharing.,data/images/P162.jpg
+P394,daily_essential,Gentle Face Wash Neem,493,3.3,Keep it fresh with our gentle face wash. Enriched with neem.,data/images/P394.jpg
+P44,luxury,Imported Earrings Platinum,6341,3.6,The ultimate symbol of elegance: imported earrings with platinum setting.,data/images/P44.jpg
+P435,daily_essential,Daily Mask Box,142,4.1,Essential mask for your home. This daily version comes in box.,data/images/P435.jpg
+P115,electronics,Gaming Smartphone Lite,22464,4.1,Experience the power of this gaming smartphone. Designed with lite specs.,data/images/P115.jpg
+P512,luxury,Rare Suit Velvet Box,26845,4.1,Indulge in luxury with this rare suit. Comes in a velvet box.,data/images/P512.jpg
+P242,fashion,Classic Handbag Sport,6654,3.2,This classic handbag is perfect for any occasion. Features sport details.,data/images/P242.jpg
+P38,grocery,Tasty Chips Box,48,4.7,Enjoy the taste of tasty chips. The box is great for sharing.,data/images/P38.jpg
+P31,grocery,Pure Oil Instant,1296,4.9,Enjoy the taste of pure oil. The instant is great for sharing.,data/images/P31.jpg
+P78,electronics,Compact Mouse Black,321,3.5,Get the best in class mouse. This compact model comes in black style.,data/images/P78.jpg
+P152,daily_essential,Clean Detergent 1L,330,3.9,Essential detergent for your home. This clean version comes in 1l.,data/images/P152.jpg
+P130,electronics,Smart Headphones Black,1251,4.4,Get the best in class headphones. This smart model comes in black style.,data/images/P130.jpg
+P76,fashion,Waterproof Sneakers Tan,2063,4.0,This waterproof sneakers is perfect for any occasion. Features tan details.,data/images/P76.jpg
+P481,luxury,Italian Luxury Watch Velvet Box,53911,3.1,Indulge in luxury with this italian luxury watch. Comes in a velvet box.,data/images/P481.jpg
+P519,electronics,High-Performance Monitor 2025 Edition,39483,3.7,The 2025 edition monitor defines high-performance excellence. Perfect for high-end tasks.,data/images/P519.jpg
+P328,luxury,Handcrafted Bracelet Sapphire,21467,3.4,The ultimate symbol of elegance: handcrafted bracelet with sapphire setting.,data/images/P328.jpg
+P480,daily_essential,Gentle Toothpaste Large,125,4.6,Keep it fresh with our gentle toothpaste. Enriched with large.,data/images/P480.jpg
+P215,luxury,Royal Suit Signature,31302,4.4,Indulge in luxury with this royal suit. Comes in a signature.,data/images/P215.jpg
+P600,fashion,Formal Saree Medium,2344,3.5,Upgrade your wardrobe with this formal saree. The medium size fits perfectly.,data/images/P600.jpg
+P146,grocery,Crunchy Oil Family Pack,1300,3.2,Enjoy the taste of crunchy oil. The family pack is great for sharing.,data/images/P146.jpg
+P316,fashion,Slim-Fit Jeans Medium,2638,4.1,Stay trendy with our slim-fit jeans. A classic choice in medium.,data/images/P316.jpg
+P158,daily_essential,Cool Soap Large,101,4.5,Keep it fresh with our cool soap. Enriched with large.,data/images/P158.jpg
+P230,electronics,Compact Mouse Black,2385,3.4,Get the best in class mouse. This compact model comes in black style.,data/images/P230.jpg
+P231,fashion,Vintage Sneakers Black,3050,4.2,This vintage sneakers is perfect for any occasion. Features black details.,data/images/P231.jpg
+P634,luxury,Elegant Perfume Custom,5897,3.2,Indulge in luxury with this elegant perfume. Comes in a custom.,data/images/P634.jpg
+P619,luxury,Exclusive Earrings Diamond,54424,3.7,The ultimate symbol of elegance: exclusive earrings with diamond setting.,data/images/P619.jpg
+P143,luxury,Elegant Luxury Watch Velvet Box,45200,3.0,Indulge in luxury with this elegant luxury watch. Comes in a velvet box.,data/images/P143.jpg
+P450,daily_essential,Daily Mask 500ml,257,4.5,Essential mask for your home. This daily version comes in 500ml.,data/images/P450.jpg
+P498,grocery,Tasty Oil Box,394,4.2,Enjoy the taste of tasty oil. The box is great for sharing.,data/images/P498.jpg
+P338,luxury,Pure Gold Earrings Diamond,13188,4.0,The ultimate symbol of elegance: pure gold earrings with diamond setting.,data/images/P338.jpg
+P299,grocery,Aromatic Chips Jar,67,4.1,Enjoy the taste of aromatic chips. The jar is great for sharing.,data/images/P299.jpg
+P573,luxury,Pure Gold Earrings 18k,10600,4.8,The ultimate symbol of elegance: pure gold earrings with 18k setting.,data/images/P573.jpg
+P533,daily_essential,Cool Shampoo Lemon,258,3.8,Keep it fresh with our cool shampoo. Enriched with lemon.,data/images/P533.jpg
+P458,luxury,Limited Edition Silk Saree Velvet Box,27561,4.9,Indulge in luxury with this limited edition silk saree. Comes in a velvet box.,data/images/P458.jpg
+P461,luxury,Genuine Diamond Ring 18k,31223,3.8,The ultimate symbol of elegance: genuine diamond ring with 18k setting.,data/images/P461.jpg
+P57,daily_essential,Antibacterial Soap Mint,72,4.7,Keep it fresh with our antibacterial soap. Enriched with mint.,data/images/P57.jpg
+P296,luxury,Genuine Diamond Ring Diamond,241736,3.5,The ultimate symbol of elegance: genuine diamond ring with diamond setting.,data/images/P296.jpg
+P592,daily_essential,Strong Towel 500ml,365,3.2,Essential towel for your home. This strong version comes in 500ml.,data/images/P592.jpg
+P390,fashion,Silk Suit Large,8491,3.2,Stay trendy with our silk suit. A classic choice in large.,data/images/P390.jpg
+P367,grocery,Whole Sugar Sack,58,4.5,Quality whole sugar for your daily meals. Comes in a sack pack.,data/images/P367.jpg
+P492,luxury,Rare Perfume Classic,4821,4.3,Indulge in luxury with this rare perfume. Comes in a classic.,data/images/P492.jpg
+P139,fashion,Casual Jacket Small,1474,3.6,Upgrade your wardrobe with this casual jacket. The small size fits perfectly.,data/images/P139.jpg
+P403,grocery,Pure Oil Pack of 3,1022,3.9,Enjoy the taste of pure oil. The pack of 3 is great for sharing.,data/images/P403.jpg
+P502,fashion,Stylish Heels Luxury Edition,1735,3.7,This stylish heels is perfect for any occasion. Features luxury edition details.,data/images/P502.jpg
+P340,grocery,Refined Wheat Bag,167,3.1,Quality refined wheat for your daily meals. Comes in a bag pack.,data/images/P340.jpg
+P71,electronics,Gaming Laptop Max,217306,3.3,Experience the power of this gaming laptop. Designed with max specs.,data/images/P71.jpg
+P271,fashion,Formal Jeans Blue,1721,4.8,Stay trendy with our formal jeans. A classic choice in blue.,data/images/P271.jpg
+P10,fashion,Silk Kurta Black,2817,4.9,Stay trendy with our silk kurta. A classic choice in black.,data/images/P10.jpg
+P351,grocery,Refined Rice 1kg,354,4.9,Quality refined rice for your daily meals. Comes in a 1kg pack.,data/images/P351.jpg
+P487,luxury,Italian Perfume Premium,10573,3.0,Indulge in luxury with this italian perfume. Comes in a premium.,data/images/P487.jpg
+P370,daily_essential,Strong Mask Active,320,3.1,Essential mask for your home. This strong version comes in active.,data/images/P370.jpg
+P114,grocery,Fresh Spices Instant,101,4.7,Enjoy the taste of fresh spices. The instant is great for sharing.,data/images/P114.jpg
+P274,fashion,Waterproof Heels Luxury Edition,2942,4.2,Complete your look with this waterproof heels. Comes in a stunning luxury edition color.,data/images/P274.jpg
+P509,luxury,Pure Gold Bracelet Sapphire,34057,3.7,The ultimate symbol of elegance: pure gold bracelet with sapphire setting.,data/images/P509.jpg
+P22,electronics,Slim Monitor Pro-Max,22310,4.6,Experience the power of this slim monitor. Designed with pro-max specs.,data/images/P22.jpg
+P612,luxury,Rare Leather Bag Classic,42542,3.1,Indulge in luxury with this rare leather bag. Comes in a classic.,data/images/P612.jpg
+P87,grocery,Fresh Chips Family Pack,46,4.0,Enjoy the taste of fresh chips. The family pack is great for sharing.,data/images/P87.jpg
+P54,electronics,Ultra Laptop Gen-2,121752,4.2,The gen-2 laptop defines ultra excellence. Perfect for high-end tasks.,data/images/P54.jpg
+P434,daily_essential,Refreshing Sanitizer Neem,167,4.9,Keep it fresh with our refreshing sanitizer. Enriched with neem.,data/images/P434.jpg
+P293,daily_essential,Strong Cleaner Active,337,4.6,Essential cleaner for your home. This strong version comes in active.,data/images/P293.jpg
+P221,electronics,Compact Smartwatch Mini,14830,4.1,Get the best in class smartwatch. This compact model comes in mini style.,data/images/P221.jpg
+P142,grocery,Whole Sugar Bag,96,4.4,Quality whole sugar for your daily meals. Comes in a bag pack.,data/images/P142.jpg
+P425,electronics,High-Performance Tablet 2025 Edition,54447,4.3,The 2025 edition tablet defines high-performance excellence. Perfect for high-end tasks.,data/images/P425.jpg
+P638,grocery,Organic Dal Sack,116,3.2,Quality organic dal for your daily meals. Comes in a sack pack.,data/images/P638.jpg
+P265,fashion,Summer Kurta Red,2910,4.3,Stay trendy with our summer kurta. A classic choice in red.,data/images/P265.jpg
+P32,fashion,Cotton Jacket Large,5904,3.5,Upgrade your wardrobe with this cotton jacket. The large size fits perfectly.,data/images/P32.jpg
+P336,grocery,Polished Sugar Sack,83,3.6,Quality polished sugar for your daily meals. Comes in a sack pack.,data/images/P336.jpg
+P609,fashion,Summer Kurta Medium,1807,3.6,Stay trendy with our summer kurta. A classic choice in medium.,data/images/P609.jpg
+P330,electronics,Slim Monitor Max,22488,4.0,Experience the power of this slim monitor. Designed with max specs.,data/images/P330.jpg
+P3,grocery,Polished Rice 10kg,126,3.3,Quality polished rice for your daily meals. Comes in a 10kg pack.,data/images/P3.jpg
+P490,grocery,Premium Rice 1kg,154,3.8,Quality premium rice for your daily meals. Comes in a 1kg pack.,data/images/P490.jpg
+P507,electronics,High-Performance Laptop Max,176014,4.8,Experience the power of this high-performance laptop. Designed with max specs.,data/images/P507.jpg
+P262,luxury,Elegant Luxury Watch Classic,146302,3.6,Indulge in luxury with this elegant luxury watch. Comes in a classic.,data/images/P262.jpg
+P558,fashion,Printed Kurta Small,1623,3.5,Stay trendy with our printed kurta. A classic choice in small.,data/images/P558.jpg
+P541,fashion,Slim-Fit Saree Small,8306,4.0,Upgrade your wardrobe with this slim-fit saree. The small size fits perfectly.,data/images/P541.jpg
+P423,grocery,Spicy Tea Pack of 3,617,3.3,Enjoy the taste of spicy tea. The pack of 3 is great for sharing.,data/images/P423.jpg
+P135,daily_essential,Antibacterial Toothpaste Mint,133,4.6,Keep it fresh with our antibacterial toothpaste. Enriched with mint.,data/images/P135.jpg
+P53,electronics,Wireless Speaker Bass Boost,6570,4.2,Upgrade your setup with this wireless speaker. Features a bass boost finish.,data/images/P53.jpg
+P495,grocery,Tasty Chips Instant,40,3.1,Enjoy the taste of tasty chips. The instant is great for sharing.,data/images/P495.jpg
+P48,electronics,High-Performance Monitor Lite,22076,4.3,Experience the power of this high-performance monitor. Designed with lite specs.,data/images/P48.jpg
+P411,luxury,Exclusive Bracelet Platinum,33122,4.4,The ultimate symbol of elegance: exclusive bracelet with platinum setting.,data/images/P411.jpg
+P640,luxury,Exclusive Diamond Ring 24k,75824,4.3,The ultimate symbol of elegance: exclusive diamond ring with 24k setting.,data/images/P640.jpg
+P249,fashion,Cotton Jeans Red,2515,3.3,Stay trendy with our cotton jeans. A classic choice in red.,data/images/P249.jpg
+P590,daily_essential,Clean Tissue Box,112,3.7,Essential tissue for your home. This clean version comes in box.,data/images/P590.jpg
+P391,daily_essential,Herbal Face Wash Lemon,492,3.4,Keep it fresh with our herbal face wash. Enriched with lemon.,data/images/P391.jpg
+P216,electronics,Fast Tablet Gen-2,13329,3.2,The gen-2 tablet defines fast excellence. Perfect for high-end tasks.,data/images/P216.jpg
+P237,grocery,Fresh Tea Pack of 3,140,4.6,Enjoy the taste of fresh tea. The pack of 3 is great for sharing.,data/images/P237.jpg
+P219,grocery,Refined Dal Bag,91,4.7,Quality refined dal for your daily meals. Comes in a bag pack.,data/images/P219.jpg
+P155,fashion,Vintage Sneakers Sport,2901,4.6,Complete your look with this vintage sneakers. Comes in a stunning sport color.,data/images/P155.jpg
+P298,fashion,Designer Suit Large,8976,4.9,Upgrade your wardrobe with this designer suit. The large size fits perfectly.,data/images/P298.jpg
+P251,electronics,Ergonomic Mouse Mini,2056,3.6,Upgrade your setup with this ergonomic mouse. Features a mini finish.,data/images/P251.jpg
+P486,luxury,Genuine Earrings Sapphire,33390,4.7,The ultimate symbol of elegance: genuine earrings with sapphire setting.,data/images/P486.jpg
+P183,grocery,Fresh Chips Box,94,4.1,Enjoy the taste of fresh chips. The box is great for sharing.,data/images/P183.jpg
+P99,grocery,Fresh Spices Box,268,3.2,Enjoy the taste of fresh spices. The box is great for sharing.,data/images/P99.jpg
+P224,fashion,Premium Sneakers Luxury Edition,13489,3.0,This premium sneakers is perfect for any occasion. Features luxury edition details.,data/images/P224.jpg
+P95,grocery,Crunchy Coffee Box,970,4.2,Enjoy the taste of crunchy coffee. The box is great for sharing.,data/images/P95.jpg
+P45,luxury,Rare Perfume Velvet Box,12105,4.5,Indulge in luxury with this rare perfume. Comes in a velvet box.,data/images/P45.jpg
+P9,daily_essential,Herbal Face Wash Lemon,259,4.5,Keep it fresh with our herbal face wash. Enriched with lemon.,data/images/P9.jpg
+P559,grocery,Whole Sugar 1kg,47,3.1,Quality whole sugar for your daily meals. Comes in a 1kg pack.,data/images/P559.jpg
+P364,fashion,Silk Saree Large,2735,3.0,Stay trendy with our silk saree. A classic choice in large.,data/images/P364.jpg
+P597,luxury,Italian Perfume Signature,10992,4.8,Indulge in luxury with this italian perfume. Comes in a signature.,data/images/P597.jpg
+P292,luxury,Genuine Gold Necklace Platinum,208916,3.7,The ultimate symbol of elegance: genuine gold necklace with platinum setting.,data/images/P292.jpg
+P399,grocery,Spicy Chips Pack of 3,69,3.8,Enjoy the taste of spicy chips. The pack of 3 is great for sharing.,data/images/P399.jpg
+P77,fashion,Premium Heels Brown,5064,3.0,Complete your look with this premium heels. Comes in a stunning brown color.,data/images/P77.jpg
+P86,daily_essential,Soft Mask 1L,345,4.0,Essential mask for your home. This soft version comes in 1l.,data/images/P86.jpg
+P465,luxury,Handcrafted Gold Necklace 18k,299957,3.2,The ultimate symbol of elegance: handcrafted gold necklace with 18k setting.,data/images/P465.jpg
+P420,electronics,High-Performance Laptop Pro-Max,111691,4.3,The pro-max laptop defines high-performance excellence. Perfect for high-end tasks.,data/images/P420.jpg
+P236,fashion,Casual Jacket Black,1763,4.5,Upgrade your wardrobe with this casual jacket. The black size fits perfectly.,data/images/P236.jpg
+P228,grocery,Crunchy Chips Instant,41,4.6,Enjoy the taste of crunchy chips. The instant is great for sharing.,data/images/P228.jpg
+P385,electronics,Fast Laptop Lite,30349,4.3,Experience the power of this fast laptop. Designed with lite specs.,data/images/P385.jpg
+P630,electronics,Ergonomic Camera Black,87781,4.6,Upgrade your setup with this ergonomic camera. Features a black finish.,data/images/P630.jpg
+P15,electronics,Pro Tablet 2025 Edition,77987,4.8,The 2025 edition tablet defines pro excellence. Perfect for high-end tasks.,data/images/P15.jpg
+P373,fashion,Designer T-Shirt Blue,371,3.2,Stay trendy with our designer t-shirt. A classic choice in blue.,data/images/P373.jpg
+P283,daily_essential,Antibacterial Toothpaste Neem,89,3.3,Keep it fresh with our antibacterial toothpaste. Enriched with neem.,data/images/P283.jpg
+P440,grocery,Fresh Oil Instant,864,4.8,Enjoy the taste of fresh oil. The instant is great for sharing.,data/images/P440.jpg
+P284,daily_essential,Hygenic Tissue 1L,74,3.8,Essential tissue for your home. This hygenic version comes in 1l.,data/images/P284.jpg
+P144,grocery,Pure Coffee Box,453,3.5,Enjoy the taste of pure coffee. The box is great for sharing.,data/images/P144.jpg
+P587,grocery,Premium Sugar 10kg,99,4.7,Quality premium sugar for your daily meals. Comes in a 10kg pack.,data/images/P587.jpg
+P117,electronics,Slim Monitor Pro-Max,21614,4.6,The pro-max monitor defines slim excellence. Perfect for high-end tasks.,data/images/P117.jpg
+P335,luxury,Genuine Gold Necklace 24k,73824,4.0,The ultimate symbol of elegance: genuine gold necklace with 24k setting.,data/images/P335.jpg
+P102,daily_essential,Hygenic Cleaner 1L,201,4.0,Essential cleaner for your home. This hygenic version comes in 1l.,data/images/P102.jpg
+P548,fashion,Formal Kurta Large,1883,4.0,Stay trendy with our formal kurta. A classic choice in large.,data/images/P548.jpg
+P58,fashion,Summer Suit Blue,12762,3.6,Stay trendy with our summer suit. A classic choice in blue.,data/images/P58.jpg
+P50,fashion,Waterproof Watch Black,12586,3.3,Complete your look with this waterproof watch. Comes in a stunning black color.,data/images/P50.jpg
+P320,grocery,Fresh Spices Pack of 3,198,3.9,Enjoy the taste of fresh spices. The pack of 3 is great for sharing.,data/images/P320.jpg
+P484,electronics,Gaming Monitor Fold,54468,3.1,Experience the power of this gaming monitor. Designed with fold specs.,data/images/P484.jpg
+P523,daily_essential,Daily Detergent Active,337,4.2,Essential detergent for your home. This daily version comes in active.,data/images/P523.jpg
+P515,fashion,Casual Jacket Small,1848,4.6,Stay trendy with our casual jacket. A classic choice in small.,data/images/P515.jpg
+P291,daily_essential,Refreshing Toothpaste Aloe Vera,188,3.8,Keep it fresh with our refreshing toothpaste. Enriched with aloe vera.,data/images/P291.jpg
+P264,daily_essential,Refreshing Sanitizer Large,137,4.7,Keep it fresh with our refreshing sanitizer. Enriched with large.,data/images/P264.jpg
+P178,electronics,High-Performance Laptop Gen-2,68175,3.1,The gen-2 laptop defines high-performance excellence. Perfect for high-end tasks.,data/images/P178.jpg
+P375,fashion,Silk Saree Blue,1742,3.1,Upgrade your wardrobe with this silk saree. The blue size fits perfectly.,data/images/P375.jpg
+P404,grocery,Premium Dal 5kg,169,4.6,Quality premium dal for your daily meals. Comes in a 5kg pack.,data/images/P404.jpg
+P352,grocery,Tasty Spices Pouch,330,4.6,Enjoy the taste of tasty spices. The pouch is great for sharing.,data/images/P352.jpg
+P622,fashion,Stylish Handbag Black,5218,4.1,This stylish handbag is perfect for any occasion. Features black details.,data/images/P622.jpg
+P7,fashion,Stylish Heels Tan,3542,3.8,This stylish heels is perfect for any occasion. Features tan details.,data/images/P7.jpg
+P386,luxury,Exclusive Gold Necklace Sapphire,116058,3.9,The ultimate symbol of elegance: exclusive gold necklace with sapphire setting.,data/images/P386.jpg
+P491,daily_essential,Hygenic Mask Active,310,3.2,Essential mask for your home. This hygenic version comes in active.,data/images/P491.jpg
+P400,electronics,Ergonomic Camera RGB,45289,3.4,Get the best in class camera. This ergonomic model comes in rgb style.,data/images/P400.jpg
+P496,electronics,Noise-Cancelling Headphones Mini,5529,3.3,Upgrade your setup with this noise-cancelling headphones. Features a mini finish.,data/images/P496.jpg
+P610,luxury,Handcrafted Diamond Ring Diamond,395674,3.8,The ultimate symbol of elegance: handcrafted diamond ring with diamond setting.,data/images/P610.jpg
+P371,luxury,Rare Silk Saree Signature,38588,4.4,Indulge in luxury with this rare silk saree. Comes in a signature.,data/images/P371.jpg
+P581,grocery,Fresh Spices Box,163,4.4,Enjoy the taste of fresh spices. The box is great for sharing.,data/images/P581.jpg
+P1,luxury,Italian Leather Bag Signature,33292,4.3,Indulge in luxury with this italian leather bag. Comes in a signature.,data/images/P1.jpg
+P455,luxury,Handcrafted Bracelet 18k,18225,4.6,The ultimate symbol of elegance: handcrafted bracelet with 18k setting.,data/images/P455.jpg
+P5,grocery,Polished Wheat 1kg,197,3.8,Quality polished wheat for your daily meals. Comes in a 1kg pack.,data/images/P5.jpg
+P56,grocery,Aromatic Chips Pack of 3,28,3.5,Enjoy the taste of aromatic chips. The pack of 3 is great for sharing.,data/images/P56.jpg
+P11,luxury,Exclusive Gold Necklace 24k,214304,3.1,The ultimate symbol of elegance: exclusive gold necklace with 24k setting.,data/images/P11.jpg
+P213,fashion,Vintage Sneakers Black,7375,4.3,Complete your look with this vintage sneakers. Comes in a stunning black color.,data/images/P213.jpg
+P310,fashion,Summer Suit Large,17184,4.3,Upgrade your wardrobe with this summer suit. The large size fits perfectly.,data/images/P310.jpg
+P306,daily_essential,Herbal Toothpaste Mint,133,3.0,Keep it fresh with our herbal toothpaste. Enriched with mint.,data/images/P306.jpg
+P282,luxury,Exclusive Earrings Platinum,22741,4.0,The ultimate symbol of elegance: exclusive earrings with platinum setting.,data/images/P282.jpg
+P578,fashion,Cotton Suit Black,28211,3.4,Stay trendy with our cotton suit. A classic choice in black.,data/images/P578.jpg
+P580,luxury,Handcrafted Diamond Ring Platinum,142409,4.3,The ultimate symbol of elegance: handcrafted diamond ring with platinum setting.,data/images/P580.jpg
+P449,grocery,Premium Dal Sack,145,4.4,Quality premium dal for your daily meals. Comes in a sack pack.,data/images/P449.jpg
+P51,daily_essential,Gentle Shampoo Mint,566,4.4,Keep it fresh with our gentle shampoo. Enriched with mint.,data/images/P51.jpg
+P129,electronics,Fast Tablet Fold,23880,4.8,The fold tablet defines fast excellence. Perfect for high-end tasks.,data/images/P129.jpg
+P560,fashion,Printed Suit Black,25700,3.3,Stay trendy with our printed suit. A classic choice in black.,data/images/P560.jpg
+P459,electronics,Gaming Tablet Gen-2,45100,4.3,Experience the power of this gaming tablet. Designed with gen-2 specs.,data/images/P459.jpg
+P104,fashion,Summer Suit Blue,24570,3.7,Upgrade your wardrobe with this summer suit. The blue size fits perfectly.,data/images/P104.jpg
+P326,grocery,Refined Rice 5kg,328,4.0,Quality refined rice for your daily meals. Comes in a 5kg pack.,data/images/P326.jpg
+P594,electronics,Compact Keyboard Silver,953,3.9,Get the best in class keyboard. This compact model comes in silver style.,data/images/P594.jpg
+P382,grocery,Polished Rice Bag,189,4.6,Quality polished rice for your daily meals. Comes in a bag pack.,data/images/P382.jpg
+P193,grocery,Premium Wheat 5kg,67,4.1,Quality premium wheat for your daily meals. Comes in a 5kg pack.,data/images/P193.jpg
+P116,luxury,Rare Leather Bag Signature,37493,4.4,Indulge in luxury with this rare leather bag. Comes in a signature.,data/images/P116.jpg
+P309,electronics,Ultra Laptop Fold,151717,3.7,The fold laptop defines ultra excellence. Perfect for high-end tasks.,data/images/P309.jpg
+P154,daily_essential,Cool Face Wash Large,349,3.6,Keep it fresh with our cool face wash. Enriched with large.,data/images/P154.jpg
+P47,fashion,Cotton Saree Small,1215,3.5,Stay trendy with our cotton saree. A classic choice in small.,data/images/P47.jpg
+P318,fashion,Leather Handbag Black,3924,4.6,This leather handbag is perfect for any occasion. Features black details.,data/images/P318.jpg
+P637,grocery,Fresh Tea Pouch,653,4.4,Enjoy the taste of fresh tea. The pouch is great for sharing.,data/images/P637.jpg
+P644,luxury,Genuine Bracelet Sapphire,20790,4.3,The ultimate symbol of elegance: genuine bracelet with sapphire setting.,data/images/P644.jpg
+P311,grocery,Premium Wheat 10kg,183,3.5,Quality premium wheat for your daily meals. Comes in a 10kg pack.,data/images/P311.jpg
+P392,electronics,Fast Monitor Max,30043,4.2,Experience the power of this fast monitor. Designed with max specs.,data/images/P392.jpg
+P187,daily_essential,Daily Cleaner Box,196,3.6,Essential cleaner for your home. This daily version comes in box.,data/images/P187.jpg
+P30,luxury,Handcrafted Gold Necklace Sapphire,148790,3.6,The ultimate symbol of elegance: handcrafted gold necklace with sapphire setting.,data/images/P30.jpg
+P463,daily_essential,Gentle Soap Mint,80,3.8,Keep it fresh with our gentle soap. Enriched with mint.,data/images/P463.jpg
+P33,electronics,Fast Laptop Max,76560,3.9,The max laptop defines fast excellence. Perfect for high-end tasks.,data/images/P33.jpg
+P398,grocery,Refined Wheat 10kg,191,3.1,Quality refined wheat for your daily meals. Comes in a 10kg pack.,data/images/P398.jpg
+P593,fashion,Printed Saree Medium,3421,4.6,Stay trendy with our printed saree. A classic choice in medium.,data/images/P593.jpg
+P565,electronics,Pro Laptop Lite,99480,3.1,Experience the power of this pro laptop. Designed with lite specs.,data/images/P565.jpg
+P506,grocery,Premium Wheat 1kg,69,3.4,Quality premium wheat for your daily meals. Comes in a 1kg pack.,data/images/P506.jpg
+P482,fashion,Designer Kurta Large,2151,3.7,Stay trendy with our designer kurta. A classic choice in large.,data/images/P482.jpg
+P93,grocery,Refined Rice Bag,219,4.7,Quality refined rice for your daily meals. Comes in a bag pack.,data/images/P93.jpg
+P160,grocery,Spicy Biscuits Family Pack,99,4.3,Enjoy the taste of spicy biscuits. The family pack is great for sharing.,data/images/P160.jpg
+P312,electronics,Bluetooth Mouse Sport Edition,629,4.1,Get the best in class mouse. This bluetooth model comes in sport edition style.,data/images/P312.jpg
+P552,electronics,Ergonomic Camera Bass Boost,67245,4.6,Get the best in class camera. This ergonomic model comes in bass boost style.,data/images/P552.jpg
+P333,electronics,Compact Speaker Mini,14192,3.0,Get the best in class speaker. This compact model comes in mini style.,data/images/P333.jpg
+P641,grocery,Organic Rice 5kg,376,3.6,Quality organic rice for your daily meals. Comes in a 5kg pack.,data/images/P641.jpg
+P464,fashion,Slim-Fit Suit Small,20985,3.2,Stay trendy with our slim-fit suit. A classic choice in small.,data/images/P464.jpg
+P643,luxury,Rare Silk Saree Signature,17576,3.2,Indulge in luxury with this rare silk saree. Comes in a signature.,data/images/P643.jpg
+P164,grocery,Refined Sugar 1kg,76,4.6,Quality refined sugar for your daily meals. Comes in a 1kg pack.,data/images/P164.jpg
+P577,electronics,Fast Smartphone Pro-Max,55745,4.7,Experience the power of this fast smartphone. Designed with pro-max specs.,data/images/P577.jpg
+P147,fashion,Formal Kurta Large,2780,4.8,Upgrade your wardrobe with this formal kurta. The large size fits perfectly.,data/images/P147.jpg
+P517,luxury,Limited Edition Suit Velvet Box,18576,3.8,Indulge in luxury with this limited edition suit. Comes in a velvet box.,data/images/P517.jpg
+P636,luxury,Royal Luxury Watch Velvet Box,287914,4.1,Indulge in luxury with this royal luxury watch. Comes in a velvet box.,data/images/P636.jpg
+P606,luxury,Imported Earrings 18k,35044,3.1,The ultimate symbol of elegance: imported earrings with 18k setting.,data/images/P606.jpg
+P302,grocery,Refined Dal 1kg,157,3.6,Quality refined dal for your daily meals. Comes in a 1kg pack.,data/images/P302.jpg
+P245,grocery,Pure Oil Instant,733,4.3,Enjoy the taste of pure oil. The instant is great for sharing.,data/images/P245.jpg
+P35,luxury,Rare Luxury Watch Velvet Box,36318,4.6,Indulge in luxury with this rare luxury watch. Comes in a velvet box.,data/images/P35.jpg
+P59,electronics,Fast Laptop Fold,90648,4.1,The fold laptop defines fast excellence. Perfect for high-end tasks.,data/images/P59.jpg
+P472,daily_essential,Antibacterial Face Wash Lemon,295,4.2,Keep it fresh with our antibacterial face wash. Enriched with lemon.,data/images/P472.jpg
+P531,electronics,High-Performance Laptop Max,152750,4.0,The max laptop defines high-performance excellence. Perfect for high-end tasks.,data/images/P531.jpg
+P359,grocery,Polished Rice Bag,135,4.7,Quality polished rice for your daily meals. Comes in a bag pack.,data/images/P359.jpg
+P428,grocery,Fresh Tea Instant,125,3.7,Enjoy the taste of fresh tea. The instant is great for sharing.,data/images/P428.jpg
+P64,luxury,Genuine Bracelet 24k,7548,3.9,The ultimate symbol of elegance: genuine bracelet with 24k setting.,data/images/P64.jpg
+P363,luxury,Italian Clutch Velvet Box,6375,4.5,Indulge in luxury with this italian clutch. Comes in a velvet box.,data/images/P363.jpg
+P574,daily_essential,Herbal Toothpaste Mint,115,4.5,Keep it fresh with our herbal toothpaste. Enriched with mint.,data/images/P574.jpg
+P267,luxury,Elegant Leather Bag Velvet Box,34879,4.8,Indulge in luxury with this elegant leather bag. Comes in a velvet box.,data/images/P267.jpg
+P380,luxury,Pure Gold Diamond Ring Sapphire,159177,3.1,The ultimate symbol of elegance: pure gold diamond ring with sapphire setting.,data/images/P380.jpg
+P204,electronics,Noise-Cancelling Headphones Sport Edition,10417,3.6,Get the best in class headphones. This noise-cancelling model comes in sport edition style.,data/images/P204.jpg
+P108,luxury,Handcrafted Diamond Ring Diamond,349622,4.9,The ultimate symbol of elegance: handcrafted diamond ring with diamond setting.,data/images/P108.jpg
+P273,electronics,Gaming Laptop Pro-Max,131340,3.2,The pro-max laptop defines gaming excellence. Perfect for high-end tasks.,data/images/P273.jpg
+P349,electronics,Pro Monitor Lite,39049,4.0,The lite monitor defines pro excellence. Perfect for high-end tasks.,data/images/P349.jpg
+P374,electronics,Slim Tablet Lite,34944,4.2,Experience the power of this slim tablet. Designed with lite specs.,data/images/P374.jpg
+P356,daily_essential,Strong Towel Roll,337,3.5,Essential towel for your home. This strong version comes in roll.,data/images/P356.jpg
+P342,fashion,Premium Watch Luxury Edition,9559,4.8,Complete your look with this premium watch. Comes in a stunning luxury edition color.,data/images/P342.jpg
