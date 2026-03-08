@@ -13,12 +13,10 @@ output_data = "data/models"
 os.makedirs(output_data, exist_ok=True) #To create models(output) directory if not present
 
 #Defining the file paths in respective variables
-interactions = "data/processed/interactions_final.csv"
 matrix = "data/processed/item_user_matrix.csv"
 
 # 1. Reading data
 print(f"\n1. Reading the pre-processed files...")
-df_interactions = pd.read_csv(interactions)
 df_matrix = pd.read_csv(matrix, index_col=0)
 
 # 2. Initialise the model
@@ -48,8 +46,5 @@ with open (os.path.join(output_data, "matrix.pkl"), "wb") as f:
 
 with open (os.path.join(output_data,"model.pkl"), "wb") as f:
     pickle.dump(model,f)
-
-with open (os.path.join(output_data, "interactions.pkl"), "wb") as f:
-    pickle.dump(df_interactions, f)
 
 print(f"4. .pkl files created and saved at location {PROJECT_ROOT}/{output_data}")

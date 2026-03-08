@@ -5,6 +5,7 @@ import sys
 import pickle
 import time
 import random
+import pandas as pd
 
 # This allows the script to find your 'utils' folder and also make sure we can run this file directly using run button instead of following the pythom -m... approach
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
@@ -18,8 +19,8 @@ with open("data/models/matrix.pkl", "rb") as f:
     matrix = pickle.load(f)
 with open("data/models/model.pkl", "rb") as f: 
     model = pickle.load(f)
-with open("data/models/interactions.pkl", "rb") as f: 
-    interactions = pickle.load(f)
+
+interactions = pd.read_csv("data/processed/interactions_final.csv")
 
 # User id for which we want recommendations, we can also specify the user id like "U20381" and check for cold start logic
 TARGET_USER_ID = interactions['user_id'].iloc[0] 
@@ -72,4 +73,4 @@ j = 1
 for rec in recs_live[:5]:
     print(f"  {j}. Product: {rec['id']} (Distance: {rec['distance']})")
     j += 1
-print(f"\n{'=' * 55}\n")
+print(f"\n{'=' * 60}\n")
