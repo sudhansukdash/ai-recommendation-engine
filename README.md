@@ -13,7 +13,7 @@ The project simulates a realistic e-commerce environment using synthetic dataset
 [https://ai-recommendation-engine-sudhansukdash.streamlit.app/]
 
 The deployed application allows users to explore the recommendation system through an interactive interface.
-Note: If the app goes to sleep, press the Yes, get the app back up! button and wait for some time for it to laod.
+Note: If the app goes to sleep, press the Yes, get the app back up! button and wait for some time for it to load.
 
 ---
 
